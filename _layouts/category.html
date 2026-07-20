@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<section class="category-hero">
+  <p class="eyebrow">CATEGORY</p>
+  <h1>{{ page.title }}</h1>
+  {% if page.description %}<p>{{ page.description }}</p>{% endif %}
+</section>
+<section class="category-archive">
+  {% assign posts = site.categories[page.category_name] %}
+  {% if posts and posts.size > 0 %}
+    <div class="post-list">
+      {% for post in posts %}
+        <article class="post-card">
+          <p class="post-meta">{{ post.date | date: "%Y. %m. %d" }} · {{ post.categories | join: " · " }}</p>
+          <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+          <p>{{ post.description }}</p>
+          <a class="text-link" href="{{ post.url | relative_url }}">읽어보기 <span aria-hidden="true">›</span></a>
+        </article>
+      {% endfor %}
+    </div>
+  {% else %}
+    <p class="empty-category">이 카테고리의 글을 준비하고 있습니다.</p>
+  {% endif %}
+</section>
