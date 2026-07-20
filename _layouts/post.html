@@ -12,6 +12,11 @@ layout: default
       <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y년 %m월 %d일" }}</time>
     </div>
   </header>
+  {% if page.thumbnail %}
+    <figure class="article-thumbnail">
+      <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}를 위한 대표 이미지">
+    </figure>
+  {% endif %}
   <div class="article-body">{{ content }}</div>
   <footer class="article-footer">
     <p>교육채널 오름은 연구 근거와 교육 현장의 적용 가능성, 그리고 그 한계를 함께 다룹니다.</p>

@@ -92,6 +92,20 @@ a:focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; }
 .page-body { max-width: 700px; margin-top: 60px; font-size: 19px; line-height: 1.75; letter-spacing: -.035em; }
 .page-body h2 { margin: 70px 0 18px; font-size: 32px; line-height: 1.15; letter-spacing: -.045em; }
 .page-body li { margin-bottom: 8px; }
+.article-thumbnail { max-width: 860px; margin: 50px 0 0; overflow: hidden; background: var(--paper); }
+.article-thumbnail img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; }
+.category-intro { max-width: 590px; margin: 0; color: #515154; font-size: 21px; line-height: 1.46; letter-spacing: -.035em; }
+.category-index { margin-top: 75px; border-top: 1px solid var(--line); }
+.category-group { padding: 36px 0 42px; border-bottom: 1px solid var(--line); }
+.category-group-title { display: flex; align-items: baseline; justify-content: space-between; gap: 18px; }
+.category-group-title h2 { margin: 0; font-size: clamp(28px, 3.1vw, 42px); line-height: 1.1; letter-spacing: -.045em; }
+.category-group-title span { color: var(--muted); font-size: 13px; }
+.category-posts { display: grid; gap: 15px; margin-top: 28px; }
+.category-posts article { display: grid; grid-template-columns: 120px minmax(0, 1fr) 100px; gap: 20px; align-items: baseline; }
+.category-posts p, .category-posts h3 { margin: 0; }
+.category-posts p { color: var(--muted); font-size: 13px; }
+.category-posts h3 { font-size: 20px; line-height: 1.28; letter-spacing: -.035em; }
+.category-posts h3 a:hover { color: var(--blue); }
 @media (max-width: 760px) {
   .site-nav { padding: 0 17px; }
   .nav-links { gap: 14px; }
@@ -119,5 +133,8 @@ a:focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; }
   .article-body, .page-body { font-size: 18px; }
   .article-body h2 { font-size: 30px; margin-top: 60px; }
   .article-body blockquote { font-size: 22px; padding-left: 19px; }
+  .category-index { margin-top: 55px; }
+  .category-posts article { grid-template-columns: 1fr; gap: 6px; }
+  .category-posts .text-link { margin-top: 6px; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { transition: none !important; } }
