@@ -124,9 +124,12 @@ a:focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; }
 .category-posts h3 { font-size: 20px; line-height: 1.28; letter-spacing: -.035em; }
 .category-posts h3 a:hover { color: var(--blue); }
 @media (max-width: 760px) {
-  .site-nav { padding: 0 17px; }
-  .nav-links { gap: 14px; }
-  .nav-links a:not(.nav-cta) { display: none; }
+  .site-nav { padding: 0 17px; gap: 12px; }
+  .wordmark > span:last-child { display: none; }
+  .nav-links { flex: 1; justify-content: flex-end; gap: 14px; max-width: calc(100vw - 58px); overflow-x: auto; scrollbar-width: none; }
+  .nav-links::-webkit-scrollbar { display: none; }
+  .nav-links a { display: block !important; white-space: nowrap; font-size: 10px; }
+  .nav-links .nav-cta { display: none !important; }
   .hero { min-height: 660px; padding: 70px 24px; align-items: flex-start; }
   .hero h1 { font-size: clamp(47px, 13.5vw, 62px); }
   .hero-summary { font-size: 20px; max-width: 360px; }
