@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'ko-KR' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#content">본문으로 건너뛰기</a>
+    <header class="site-header">
+      <nav class="site-nav" aria-label="주요 메뉴">
+        <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="교육채널 오름 홈">
+          <span class="wordmark-mark">O</span><span>교육채널 오름</span>
+        </a>
+        <div class="nav-links">
+          <a href="{{ '/topics/' | relative_url }}">주제</a>
+          <a href="{{ '/about/' | relative_url }}">소개</a>
+          <a href="{{ '/methodology/' | relative_url }}">운영 원칙</a>
+          <a class="nav-cta" href="https://www.orumedu.com/" rel="noopener">오름 에듀</a>
+        </div>
+      </nav>
+    </header>
+    <main id="content">{{ content }}</main>
+    <footer class="site-footer">
+      <div>
+        <strong>교육채널 오름</strong>
+        <p>뇌와 학습을, 교육 현장의 언어로.</p>
+      </div>
+      <p class="footer-note">© {{ 'now' | date: '%Y' }} 백주경 교육학 박사 · 교육 정보 제공 목적</p>
+    </footer>
+  </body>
+</html>
