@@ -1,0 +1,19 @@
+title: 교육채널 오름
+email: contact@orumedu.com
+description: >-
+  뇌과학·학습과학·자기조절학습을 교육 현장의 언어로 번역합니다.
+baseurl: "/orumedu-learning-lab"
+url: "https://orumedu2002.github.io"
+lang: ko-KR
+timezone: Asia/Seoul
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+author:
+  name: 백주경 교육학 박사
+  url: https://www.orumedu.com/
+header_pages:
+  - about.md
+  - methodology.md
+  - topics.md
