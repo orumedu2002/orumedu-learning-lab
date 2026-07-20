@@ -2,7 +2,7 @@
 
 뇌과학·학습과학·자기조절학습에 관한 연구를 교육 현장의 언어로 번역하는 GitHub Pages 블로그입니다.
 
-- 공개 사이트: `https://orumedu2002.github.io/`
+- 공개 사이트: `https://orumedu2002.github.io/orumedu-learning-lab/`
 - 운영자: 백주경 교육학 박사
 - 게시 원칙: [운영 원칙](methodology.md)
 
