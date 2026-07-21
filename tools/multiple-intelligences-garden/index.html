@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>다중지능 꽃밭 검사</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Jua&family=Gowun+Dodum&family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #F5F2FB;
+    --surface: #FFFFFF;
+    --ink: #2B2640;
+    --muted: #7A7390;
+    --line: #E7E1F5;
+    --cta: #FF6F59;
+    --cta-ink: #FFFFFF;
+
+    --c-lang: #FF6F59;
+    --c-math: #F4A300;
+    --c-space: #3AA6FF;
+    --c-body: #2ECC71;
+    --c-music: #A66DD4;
+    --c-inter: #FF5C93;
+    --c-intra: #17A2A2;
+    --c-nature: #7CB342;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:
+      radial-gradient(circle at 8% 10%, #EFE9FF 0%, transparent 40%),
+      radial-gradient(circle at 92% 85%, #FFF3E6 0%, transparent 45%),
+      var(--bg);
+    color:var(--ink);
+    font-family:'Gowun Dodum','Noto Sans KR',sans-serif;
+    min-height:100vh;
+    padding:28px 14px 60px;
+  }
+  h1,h2,h3,.display{ font-family:'Jua','Noto Sans KR',sans-serif; font-weight:400; }
+  .wrap{ max-width:720px; margin:0 auto; }
+
+  /* ---------- Flower progress ---------- */
+  .flower-zone{ display:flex; flex-direction:column; align-items:center; margin-bottom:22px; }
+  .flower-caption{ font-size:13px; color:var(--muted); margin-top:6px; letter-spacing:.02em; }
+  .petal{ transition: fill .5s ease, opacity .5s ease; }
+  .petal.active{ animation: pulse 1.6s ease-in-out infinite; }
+  @keyframes pulse{ 0%,100%{opacity:1;} 50%{opacity:.55;} }
+
+  /* ---------- Cards ---------- */
+  .card{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:22px;
+    padding:26px;
+    box-shadow: 0 10px 30px -18px rgba(43,38,64,.35);
+  }
+  .eyebrow{
+    display:inline-block; font-size:13px; color:var(--muted);
+    background:#F1EDFB; border-radius:999px; padding:4px 12px; margin-bottom:10px;
+  }
+  h1.title{ font-size:30px; margin:0 0 8px; }
+  p.lede{ color:var(--muted); font-size:15px; line-height:1.6; margin:0 0 22px; }
+
+  /* ---------- Intro form ---------- */
+  .field{ margin-bottom:16px; }
+  label{ display:block; font-size:14px; color:var(--muted); margin-bottom:6px; }
+  input[type=text], select{
+    width:100%; padding:12px 14px; border-radius:12px; border:1.5px solid var(--line);
+    font-family:inherit; font-size:15px; background:#FBFAFF; color:var(--ink);
+  }
+  input:focus, select:focus{ outline:2px solid #C9BCF2; border-color:#C9BCF2; }
+  .radio-row{ display:flex; gap:8px; flex-wrap:wrap; }
+  .radio-pill{
+    padding:10px 16px; border-radius:999px; border:1.5px solid var(--line);
+    cursor:pointer; font-size:14px; color:var(--muted); user-select:none;
+  }
+  .radio-pill.picked{ background:var(--ink); color:#fff; border-color:var(--ink); }
+
+  button{ font-family:'Jua','Noto Sans KR',sans-serif; cursor:pointer; border:none; }
+  .btn-primary{
+    background:var(--cta); color:var(--cta-ink); padding:14px 26px; border-radius:14px;
+    font-size:17px; width:100%; box-shadow:0 10px 22px -10px rgba(255,111,89,.6);
+  }
+  .btn-primary:disabled{ background:#DAD4EC; color:#9C93B8; box-shadow:none; cursor:not-allowed; }
+  .btn-ghost{
+    background:transparent; color:var(--muted); padding:12px 18px; border-radius:12px; font-size:15px;
+  }
+  .btn-row{ display:flex; gap:10px; align-items:center; margin-top:22px; }
+
+  /* ---------- Domain header ---------- */
+  .domain-band{
+    display:flex; align-items:center; gap:12px; padding:14px 18px; border-radius:18px; margin-bottom:18px;
+    color:#fff;
+  }
+  .domain-band .emoji{ font-size:30px; }
+  .domain-band .name{ font-size:22px; }
+  .domain-band .desc{ font-size:13px; opacity:.9; margin-top:2px; }
+
+  .progress-bar{ height:8px; border-radius:999px; background:#EDE8FB; overflow:hidden; margin-bottom:20px; }
+  .progress-fill{ height:100%; border-radius:999px; transition:width .4s ease; }
+
+  /* ---------- Question ---------- */
+  .q-item{ padding:16px 0; border-bottom:1px solid var(--line); }
+  .q-item:last-child{ border-bottom:none; }
+  .q-num{ font-size:12px; color:var(--muted); margin-bottom:4px; }
+  .q-text{ font-size:15.5px; line-height:1.55; margin-bottom:12px; }
+  .scale-row{ display:flex; gap:6px; justify-content:space-between; }
+  .scale-btn{
+    flex:1; padding:10px 4px; border-radius:12px; border:1.5px solid var(--line);
+    background:#FBFAFF; font-size:12px; color:var(--muted); text-align:center; line-height:1.3;
+  }
+  .scale-btn b{ display:block; font-size:15px; margin-bottom:2px; font-family:'Jua',sans-serif; color:var(--ink); }
+  .scale-btn.picked{ color:#fff; border-color:transparent; }
+  .scale-btn.picked b{ color:#fff; }
+
+  .section-progress-note{ font-size:13px; color:var(--muted); text-align:center; margin-top:14px; }
+
+  /* ---------- Results ---------- */
+  .score-row{ display:flex; align-items:center; gap:12px; padding:10px 0; }
+  .score-row .dot{ width:14px; height:14px; border-radius:50%; flex:none; }
+  .score-row .label{ width:98px; font-size:14px; flex:none; }
+  .score-track{ flex:1; height:12px; border-radius:999px; background:#EDE8FB; overflow:hidden; }
+  .score-fill{ height:100%; border-radius:999px; }
+  .score-val{ width:44px; text-align:right; font-size:13px; color:var(--muted); flex:none; }
+
+  .tag-grid{ display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:18px 0; }
+  @media (max-width:520px){ .tag-grid{ grid-template-columns:1fr; } }
+  .tag-card{ border-radius:16px; padding:16px; color:#fff; }
+  .tag-card .kind{ font-size:12px; opacity:.85; margin-bottom:4px;}
+  .tag-card .dname{ font-size:19px; margin-bottom:6px; }
+  .tag-card .tip{ font-size:13px; line-height:1.5; opacity:.95; }
+
+  .letter{
+    background:#FFF9EF; border:1.5px dashed #F2D9A8; border-radius:16px; padding:20px;
+    font-size:15px; line-height:1.75; margin-top:18px; white-space:pre-line;
+  }
+  .letter .sig{ text-align:right; color:var(--muted); font-size:13px; margin-top:10px; }
+
+  .footer-note{ text-align:center; color:var(--muted); font-size:12.5px; margin-top:26px; line-height:1.6; }
+  a.reset-link{ color:var(--ink); }
+</style>
+</head>
+<body>
+<div class="wrap" id="app"></div>
+
+<script>
+/* ============ DATA ============ */
+const DOMAINS = [
+  { key:'lang', name:'언어지능', emoji:'📖', color:'var(--c-lang)', hex:'#FF6F59',
+    desc:'말과 글로 생각을 표현하는 힘',
+    strengthTip:'그림책을 읽어주고 이야기를 이어 만드는 놀이를 자주 해주세요.',
+    bridgeTip:'그림책을 소리 내어 함께 읽고, 짧은 문장을 따라 말해보게 해보세요.',
+    questions:[
+      '말을 일찍 시작한 편이고 말하는 것을 즐긴다.',
+      '"이름이 뭐예요?", "몇 살이에요?" 라고 물으면, 이름과 나이를 알고 말할 수 있다.',
+      '긍정 혹은 부정의 질문에 "예 / 아니요"로 대답한다.',
+      '만약에, 언제, 누가라는 말에 정확히 대답한다.',
+      '어떤 곳에 가면 먼저 그 집의 동화책부터 꺼내는 경향이 있다.',
+      '좋음, 싫음, 슬픔 등의 감정을 언어로 표현한다.',
+      '이야기를 듣는 것을 좋아하고 들을 때 주의 깊게 듣는 편이다.',
+      '동화를 읽은 뒤 그 내용을 자신이 이야기해 주고 싶어 한다.',
+      '조사(-는, -이, -가)를 적절히 사용하여 3단어 이상 연결된 문장을 완성할 수 있다.',
+      '몸짓 도움 없이 "탁자 위에 컵을 놓으세요."라고 하면 정확히 행동하거나 대답하는 편이다.'
+    ]},
+  { key:'math', name:'논리수학지능', emoji:'🔢', color:'var(--c-math)', hex:'#F4A300',
+    desc:'숫자와 규칙을 다루는 힘',
+    strengthTip:'숫자 퍼즐이나 보드게임으로 규칙을 찾는 놀이를 즐겨보세요.',
+    bridgeTip:'숫자 세기 놀이나 물건을 순서대로 정리하는 놀이를 해보세요.',
+    questions:[
+      '숫자를 이용한 놀이를 좋아하는 편이다.',
+      '양의 많고 적음에 민감한 편이다.',
+      '수를 순서에 맞게 1부터 10까지 셀 수 있다.',
+      '집안의 여러 물건에 관심을 가지고 어떻게 작동하는지 알려고 한다.',
+      '사물을 한 가지 외적기준(모양, 색깔)에 의해 분류한다.',
+      '블록이나 자동차 4개를 한 줄로 늘어놓으면 따라서 옆으로 늘어놓는다.',
+      '"칠, 오"라고 말한 후 따라 하게 하면, 2개의 숫자를 정확한 순서로 말한다.',
+      '일이 일어난 원인이나 이유를 알고 싶어 하는 편이다.',
+      '유사한 사물을 서로 연결할 수 있다.',
+      '한번 시작한 활동은 끝까지 완성하려는 편이다.'
+    ]},
+  { key:'space', name:'공간지능', emoji:'🧩', color:'var(--c-space)', hex:'#3AA6FF',
+    desc:'그림과 도형을 상상하는 힘',
+    strengthTip:'블록, 레고, 퍼즐 놀이로 상상력을 마음껏 펼치게 해주세요.',
+    bridgeTip:'쉬운 퍼즐이나 블록 쌓기부터 천천히 함께 해보세요.',
+    questions:[
+      '공간에 대한 기초개념(앞, 뒤, 옆, 아래, 위)을 잘 알고 있다.',
+      '원 그리는 시범을 보여주면 그림을 따라 원 모양을 그린다.',
+      '블록 쌓기나 모래성 쌓기 같은 만들기를 즐기는 편이다.',
+      '장난감을 분리하고 다시 끼워 맞추기를 좋아한다.',
+      '사물의 숨겨진 부분을 연상할 수 있다.',
+      '혼자서도 옷을 입고 벗기를 잘 하는 편이다.',
+      '집안의 물건을 정리하거나 배치하는 것을 좋아하는 편이다.',
+      '갔던 경험이 있는 곳을 쉽게 알아차리고 사물의 위치를 잘 기억하는 편이다.',
+      '2~3개의 퍼즐을 완성할 수 있다.',
+      '손에 닿지 않는 물건을 가지려 할 때 올라설 의자나 상자를 찾는다.'
+    ]},
+  { key:'body', name:'신체운동지능', emoji:'⚽', color:'var(--c-body)', hex:'#2ECC71',
+    desc:'몸으로 움직이고 표현하는 힘',
+    strengthTip:'춤, 놀이터, 스포츠 등 몸을 쓰는 활동을 충분히 허용해주세요.',
+    bridgeTip:'매일 짧게라도 몸을 움직이는 놀이 시간을 가져보세요.',
+    questions:[
+      '아무것도 잡지 않고 발길질을 하여 공을 찬다.',
+      '일찍 걷기 시작했다.',
+      '몸을 많이 움직이는 놀이를 좋아하는 편이다.',
+      '야외에 나가는 것을 좋아한다.',
+      '세발자전거를 탈 수 있다.',
+      '두 발을 모아 점프할 수 있다.',
+      '배변 훈련이 잘 이루어지는 편이다.',
+      '10개의 계단을 쉬지 않고 천천히라도 끝까지 올라갈 수 있다.',
+      '손보다 숟가락, 젓가락 사용에 더 흥미를 가진다.',
+      '행동이 둔하지 않고 민첩하며 활동적이다.'
+    ]},
+  { key:'music', name:'음악지능', emoji:'🎵', color:'var(--c-music)', hex:'#A66DD4',
+    desc:'소리와 리듬을 느끼는 힘',
+    strengthTip:'악기를 접하게 하거나 노래를 함께 만들어보세요.',
+    bridgeTip:'동요를 함께 부르며 리듬에 맞춰 몸을 흔들어보세요.',
+    questions:[
+      '음악이 나오면 몸을 흔들고 좋아한다.',
+      '주변의 작은 소리, 이상한 소리에 민감하게 반응하는 편이다.',
+      '동요를 쉽게 배우고 멜로디에 맞게 노래를 부르는 편이다.',
+      '놀이를 할 때 노래를 흥얼거리는 편이다.',
+      '처음부터 끝까지 부를 수 있는 동요나 노래가 있다.',
+      '장난감이나 기구로 리듬 있게 소리내기를 즐긴다.',
+      '동요나 음악 듣기를 즐기는 편이다.',
+      '감수성이 풍부한 편이다.',
+      '여러 가지 소리를 잘 구분하는 편이다.',
+      '스스로 노래를 만들거나 즉흥 연주하는 것을 좋아한다.'
+    ]},
+  { key:'inter', name:'대인관계지능', emoji:'🤝', color:'var(--c-inter)', hex:'#FF5C93',
+    desc:'다른 사람과 어울리는 힘',
+    strengthTip:'친구들과 어울리는 모임이나 역할놀이 기회를 자주 만들어주세요.',
+    bridgeTip:'짧은 역할놀이로 친구와 나누고 배려하는 연습을 해보세요.',
+    questions:[
+      '극 놀이(소꿉놀이)에 관심을 가지며 참여한다.',
+      '요구했을 때 물건이나 음식을 다른 친구에게 나누어준다.',
+      '또래와 만나면 먼저 다가가 아는 척을 한다.',
+      '낯선 사람과 낯선 공간에서도 쉽게 적응하는 편이다.',
+      '다른 사람의 기분이 좋은지, 화가 났는지를 잘 알아차린다.',
+      '특별히 좋아하는 친구가 있다.',
+      '차례를 지켜야 할 때 자기 순서를 잘 따른다.',
+      '혼자서 놀기보다는 어울려서 놀기를 좋아한다.',
+      '"고마워", "사랑해", "함께 놀자" 같은 표현을 자주 한다.',
+      '놀이를 할 때 친구나 부모에게 이렇게 하고 놀자고 제안하는 편이다.'
+    ]},
+  { key:'intra', name:'개인이해지능', emoji:'🪞', color:'var(--c-intra)', hex:'#17A2A2',
+    desc:'자기 마음을 아는 힘',
+    strengthTip:'혼자 생각하고 정리할 수 있는 조용한 시간을 존중해주세요.',
+    bridgeTip:'오늘 기분이 어땠는지 그림이나 말로 표현하는 시간을 가져보세요.',
+    questions:[
+      '혼자서 해야 할 일을 스스로 하려고 하는 편이다. (옷입기, 밥먹기 등)',
+      '"좋아", "나는 이거 싫어", "내가 이거 할래"라고 표현을 잘 한다.',
+      '남자인지 여자인지를 물어보면 정확하게 대답한다.',
+      '춤, 표정, 몸짓이 다양한 편이다.',
+      '무엇을 선택할 때 조심스럽고 신중한 편이다.',
+      '혼자서 하는 놀이가 많은 편이다.',
+      '이름을 물으면 자신의 이름을 대답한다.',
+      '음식 맛이 이상한 경우 알아채서 뱉어내는 등의 표시를 한다.',
+      '잘못이나 실수를 했을 때 풀이 죽거나 미안하다고 말하는 편이다.',
+      '기분이 좋거나 나쁠 때 특별하게 하는 행동이 있다.'
+    ]},
+  { key:'nature', name:'자연탐구지능', emoji:'🌿', color:'var(--c-nature)', hex:'#7CB342',
+    desc:'자연을 관찰하고 아끼는 힘',
+    strengthTip:'산책, 텃밭 가꾸기, 동물 관찰 등 자연 경험을 늘려주세요.',
+    bridgeTip:'산책하며 꽃과 벌레를 함께 관찰하고 이름을 찾아보세요.',
+    questions:[
+      '길에서 개, 고양이, 새 등을 만났을 때 관심이나 호감을 보인다.',
+      '춥거나 더운 느낌을 받으면 말이나 행동으로 표현하는 편이다.',
+      '동물의 소리나 생김새에 관심을 가지고 흉내 내기를 좋아한다.',
+      '길을 지나가다 꽃과 나무를 보면 그냥 지나치지 않고 관찰하며 이야기한다.',
+      '육지, 하늘, 바다의 동물을 구분할 수 있다.',
+      '산이나 바다를 좋아하는 편이다.',
+      '밖에서 일어나는 자연적 현상에 관심이 많다.',
+      '작은 곤충의 움직임을 쉽게 알아차리고 관심을 가진다.',
+      '동물 표현을 하며 극 놀이를 자주 한다.',
+      '특별히 좋아하는 동물 장난감이 있다.'
+    ]}
+];
+const SCALE = ['전혀 그렇지 않다','별로 그렇지 않다','보통이다','대체로 그렇다','매우 그렇다'];
+
+/* ============ STATE ============ */
+let screen = 'intro';           // 'intro' | 0..7 (domain index) | 'result'
+let child = { name:'', gender:'', evaluator:'부모' };
+let answers = DOMAINS.map(d => Array(d.questions.length).fill(0));
+
+const app = document.getElementById('app');
+
+/* ============ HELPERS ============ */
+function petalPositions(cx,cy,r){
+  return DOMAINS.map((d,i)=>{
+    const angle = -90 + i*45;
+    return angle;
+  });
+}
+function domainComplete(i){ return answers[i].every(v=>v>0); }
+function domainScore(i){ return answers[i].reduce((a,b)=>a+b,0); }
+
+function flowerSVG(activeIdx){
+  const cx=90, cy=90, ry=34, rx=15, dist=34;
+  let petals='';
+  DOMAINS.forEach((d,i)=>{
+    const angle = -90 + i*45;
+    const complete = domainComplete(i);
+    const isActive = (activeIdx===i);
+    const fill = complete ? d.hex : '#E4DEF6';
+    petals += `<g transform="rotate(${angle} ${cx} ${cy})">
+      <ellipse class="petal${isActive?' active':''}" cx="${cx}" cy="${cy-dist}" rx="${rx}" ry="${ry}"
+        fill="${fill}" stroke="${isActive?d.hex:'transparent'}" stroke-width="${isActive?2:0}"/>
+    </g>`;
+  });
+  const center = (typeof activeIdx==='number') ? (activeIdx+1)+' / 8' : '🌼';
+  return `<svg width="180" height="180" viewBox="0 0 180 180">
+    ${petals}
+    <circle cx="${cx}" cy="${cy}" r="22" fill="#fff" stroke="#EDE8FB" stroke-width="2"/>
+    <text x="${cx}" y="${cy+6}" text-anchor="middle" font-family="Jua" font-size="15" fill="#2B2640">${center}</text>
+  </svg>`;
+}
+
+function radarSVG(scores){
+  const size=320, cx=size/2, cy=size/2, maxR=110, maxVal=50;
+  const n=DOMAINS.length;
+  function pt(i,val){
+    const angle = -90 + i*(360/n);
+    const rad = angle*Math.PI/180;
+    const r = (val/maxVal)*maxR;
+    return [cx + r*Math.cos(rad), cy + r*Math.sin(rad)];
+  }
+  let grid='';
+  [0.2,0.4,0.6,0.8,1].forEach(f=>{
+    let pts=[];
+    for(let i=0;i<n;i++){ pts.push(pt(i,maxVal*f).join(',')); }
+    grid += `<polygon points="${pts.join(' ')}" fill="none" stroke="#EDE8FB" stroke-width="1"/>`;
+  });
+  let axes='', labels='';
+  DOMAINS.forEach((d,i)=>{
+    const [x,y]=pt(i,maxVal);
+    axes += `<line x1="${cx}" y1="${cy}" x2="${x}" y2="${y}" stroke="#EDE8FB" stroke-width="1"/>`;
+    const [lx,ly]=pt(i,maxVal*1.22);
+    labels += `<text x="${lx}" y="${ly}" text-anchor="middle" font-size="11" fill="#2B2640" font-family="Noto Sans KR">${d.emoji}</text>`;
+  });
+  let dataPts = scores.map((s,i)=>pt(i,s).join(',')).join(' ');
+  let dots='';
+  scores.forEach((s,i)=>{
+    const [x,y]=pt(i,s);
+    dots += `<circle cx="${x}" cy="${y}" r="4.5" fill="${DOMAINS[i].hex}"/>`;
+  });
+  return `<svg width="${size}" height="${size}" viewBox="0 0 ${size} ${size}">
+    ${grid}${axes}
+    <polygon points="${dataPts}" fill="#9B72CF" fill-opacity="0.22" stroke="#9B72CF" stroke-width="2"/>
+    ${dots}${labels}
+  </svg>`;
+}
+
+/* ============ RENDERERS ============ */
+function render(){
+  if(screen==='intro') return renderIntro();
+  if(screen==='result') return renderResult();
+  return renderDomain(screen);
+}
+
+function renderIntro(){
+  app.innerHTML = `
+    <div class="flower-zone">${flowerSVG(null)}<div class="flower-caption">여덟 빛깔 지능의 씨앗을 심어볼까요?</div></div>
+    <div class="card">
+      <span class="eyebrow">1단계 · 8영역 · 80문항</span>
+      <h1 class="title">다중지능 꽃밭 검사</h1>
+      <p class="lede">아이가 가진 여덟 가지 지능 중 어떤 꽃이 가장 활짝 피어있는지 살펴봐요. 정답은 없어요, 평소 모습 그대로 답해주세요.</p>
+
+      <div class="field">
+        <label>유아 이름</label>
+        <input id="in-name" type="text" placeholder="예: 김하늘" value="${child.name}">
+      </div>
+      <div class="field">
+        <label>성별</label>
+        <div class="radio-row" id="gender-row">
+          ${['남','여'].map(g=>`<div class="radio-pill ${child.gender===g?'picked':''}" data-g="${g}">${g}</div>`).join('')}
+        </div>
+      </div>
+      <div class="field">
+        <label>평가자</label>
+        <div class="radio-row" id="eval-row">
+          ${['부모','교사','기타'].map(g=>`<div class="radio-pill ${child.evaluator===g?'picked':''}" data-e="${g}">${g}</div>`).join('')}
+        </div>
+      </div>
+
+      <div class="btn-row">
+        <button class="btn-primary" id="start-btn">검사 시작하기 🌱</button>
+      </div>
+    </div>
+    <div class="footer-note">총 8개 영역 · 영역당 10문항 · 중간에 이전 영역으로 돌아갈 수 있어요.<br>이 도구는 영유아의 일상 관찰을 돕는 교육적 참고 자료이며, 표준화 심리검사·발달진단 또는 의료적 판단을 대체하지 않습니다. 입력한 이름과 응답은 이 브라우저 안에서만 처리되며 서버에 저장·전송되지 않습니다.</div>
+  `;
+  document.getElementById('in-name').oninput = e => child.name = e.target.value;
+  document.querySelectorAll('#gender-row .radio-pill').forEach(el=>{
+    el.onclick = ()=>{ child.gender = el.dataset.g; renderIntro(); };
+  });
+  document.querySelectorAll('#eval-row .radio-pill').forEach(el=>{
+    el.onclick = ()=>{ child.evaluator = el.dataset.e; renderIntro(); };
+  });
+  document.getElementById('start-btn').onclick = ()=>{ screen = 0; render(); };
+}
+
+function renderDomain(idx){
+  const d = DOMAINS[idx];
+  const answered = answers[idx].filter(v=>v>0).length;
+  const total = d.questions.length;
+  const pct = Math.round((idx + answered/total) / DOMAINS.length * 100);
+
+  app.innerHTML = `
+    <div class="flower-zone">${flowerSVG(idx)}<div class="flower-caption">${idx+1}번째 꽃잎 · ${d.name} 채우는 중</div></div>
+    <div class="progress-bar"><div class="progress-fill" style="width:${pct}%;background:${d.hex}"></div></div>
+    <div class="card">
+      <div class="domain-band" style="background:${d.hex}">
+        <div class="emoji">${d.emoji}</div>
+        <div><div class="name">${d.name}</div><div class="desc">${d.desc}</div></div>
+      </div>
+      <div id="q-list">
+        ${d.questions.map((q,qi)=>`
+          <div class="q-item">
+            <div class="q-num">${qi+1} / ${total}</div>
+            <div class="q-text">${q}</div>
+            <div class="scale-row" data-qi="${qi}">
+              ${SCALE.map((label,si)=>`
+                <div class="scale-btn ${answers[idx][qi]===si+1?'picked':''}" data-si="${si+1}" style="${answers[idx][qi]===si+1?`background:${d.hex};border-color:${d.hex}`:''}">
+                  <b>${si+1}</b>${label}
+                </div>`).join('')}
+            </div>
+          </div>
+        `).join('')}
+      </div>
+      <div class="section-progress-note">${answered} / ${total} 문항 완료</div>
+      <div class="btn-row">
+        ${idx>0 ? `<button class="btn-ghost" id="prev-btn">← 이전 영역</button>` : `<span></span>`}
+        <button class="btn-primary" id="next-btn" ${answered<total?'disabled':''}>
+          ${idx===DOMAINS.length-1 ? '결과 보기 🌸' : '다음 영역 →'}
+        </button>
+      </div>
+    </div>
+  `;
+
+  document.querySelectorAll('#q-list .scale-row').forEach(row=>{
+    const qi = +row.dataset.qi;
+    row.querySelectorAll('.scale-btn').forEach(btn=>{
+      btn.onclick = ()=>{
+        answers[idx][qi] = +btn.dataset.si;
+        renderDomain(idx);
+      };
+    });
+  });
+  if(idx>0) document.getElementById('prev-btn').onclick = ()=>{ screen = idx-1; render(); };
+  document.getElementById('next-btn').onclick = ()=>{
+    if(answered<total) return;
+    screen = (idx===DOMAINS.length-1) ? 'result' : idx+1;
+    render();
+    window.scrollTo(0,0);
+  };
+}
+
+function renderResult(){
+  const scores = DOMAINS.map((d,i)=>domainScore(i));
+  const ranked = DOMAINS.map((d,i)=>({...d, score:scores[i], idx:i})).sort((a,b)=>b.score-a.score);
+  const strengths = ranked.slice(0,2);
+  const weaknesses = ranked.slice(-1);
+  const name = child.name || '아이';
+
+  const letterText = `${name}(이)는 ${strengths.map(s=>s.name).join(', ')} 이(가) 유독 반짝이는 꽃잎으로 나타났어요. ${strengths[0].strengthTip}
+
+아직 봉오리 상태인 ${weaknesses[0].name}은(는) 조급해하지 않아도 괜찮아요. ${weaknesses[0].bridgeTip}
+${strengths[0].name}(을)를 좋아하는 마음을 살짝 빌려와 놀이처럼 다가가면, ${name}만의 속도로 무럭무럭 자랄 거예요.`;
+
+  app.innerHTML = `
+    <div class="flower-zone">${flowerSVG(null)}<div class="flower-caption">여덟 꽃잎이 모두 피었어요 🌸</div></div>
+    <div class="card">
+      <span class="eyebrow">검사 결과</span>
+      <h1 class="title">${name}의 다중지능 꽃밭</h1>
+      <p class="lede">평가자: ${child.evaluator} · 8개 영역 · 각 50점 만점</p>
+
+      <div style="display:flex; justify-content:center; margin-bottom:10px;">${radarSVG(scores)}</div>
+
+      <div id="score-list">
+        ${ranked.map(d=>`
+          <div class="score-row">
+            <div class="dot" style="background:${d.hex}"></div>
+            <div class="label">${d.emoji} ${d.name}</div>
+            <div class="score-track"><div class="score-fill" style="width:${d.score/50*100}%;background:${d.hex}"></div></div>
+            <div class="score-val">${d.score}/50</div>
+          </div>
+        `).join('')}
+      </div>
+
+      <div class="tag-grid">
+        ${strengths.map(s=>`
+          <div class="tag-card" style="background:${s.hex}">
+            <div class="kind">💪 강점지능</div>
+            <div class="dname">${s.emoji} ${s.name}</div>
+            <div class="tip">${s.strengthTip}</div>
+          </div>`).join('')}
+        ${weaknesses.map(s=>`
+          <div class="tag-card" style="background:#B9B2CE">
+            <div class="kind">🌱 보완지능</div>
+            <div class="dname">${s.emoji} ${s.name}</div>
+            <div class="tip">${s.bridgeTip}</div>
+          </div>`).join('')}
+      </div>
+
+      <div class="letter">${letterText}<div class="sig">— 다중지능 꽃밭 검사 드림</div></div>
+
+      <div class="btn-row">
+        <button class="btn-primary" id="restart-btn">처음부터 다시 검사하기</button>
+      </div>
+    </div>
+    <div class="footer-note">이 결과는 강점과 보완점의 참고 자료이며, 지능의 높고 낮음을 평가하는 것이 아니에요.<br>2년 주기로 다시 검사해보면 자라나는 변화를 볼 수 있어요.</div>
+  `;
+  document.getElementById('restart-btn').onclick = ()=>{
+    answers = DOMAINS.map(d => Array(d.questions.length).fill(0));
+    screen = 'intro';
+    render();
+    window.scrollTo(0,0);
+  };
+}
+
+render();
+</script>
+</body>
+</html>
