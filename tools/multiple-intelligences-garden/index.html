@@ -2,7 +2,8 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
-<title>다중지능 꽃밭 검사</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>다중지능 검사</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Jua&family=Gowun+Dodum&family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
 <style>
@@ -125,6 +126,39 @@
 
   .tag-grid{ display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:18px 0; }
   @media (max-width:520px){ .tag-grid{ grid-template-columns:1fr; } }
+
+  /* ---------- Mobile comfort ---------- */
+  @media (max-width:560px){
+    body{ padding:18px 12px 42px; }
+    .flower-zone{ margin-bottom:14px; }
+    .flower-zone svg{ width:142px; height:142px; }
+    .flower-caption{ font-size:12px; text-align:center; }
+    .card{ border-radius:18px; padding:19px 16px; }
+    .eyebrow{ font-size:12px; margin-bottom:8px; }
+    h1.title{ font-size:27px; line-height:1.25; }
+    p.lede{ font-size:14px; line-height:1.65; margin-bottom:18px; }
+    .field{ margin-bottom:14px; }
+    input[type=text], select{ min-height:46px; font-size:16px; }
+    .radio-row{ gap:7px; }
+    .radio-pill{ min-height:44px; display:flex; align-items:center; justify-content:center; padding:9px 14px; }
+    .btn-primary{ min-height:52px; font-size:17px; }
+    .btn-ghost{ min-height:46px; padding:10px 12px; font-size:14px; }
+    .domain-band{ align-items:flex-start; padding:14px; border-radius:15px; gap:10px; }
+    .domain-band .emoji{ font-size:27px; }
+    .domain-band .name{ font-size:20px; }
+    .domain-band .desc{ font-size:12px; line-height:1.4; }
+    .q-item{ padding:17px 0; }
+    .q-text{ font-size:15px; line-height:1.62; margin-bottom:11px; }
+    .scale-row{ gap:4px; }
+    .scale-btn{ min-height:64px; padding:7px 2px; border-radius:10px; font-size:10px; overflow-wrap:anywhere; }
+    .scale-btn b{ font-size:16px; margin-bottom:3px; }
+    .section-progress-note{ margin-top:12px; }
+    .btn-row{ position:sticky; bottom:0; z-index:2; margin:18px -4px -4px; padding:10px 4px 4px; background:linear-gradient(to bottom, rgba(255,255,255,0), #fff 24%); }
+    .score-row{ gap:8px; padding:9px 0; }
+    .score-row .label{ width:88px; font-size:13px; }
+    .score-val{ width:39px; font-size:12px; }
+    .footer-note{ font-size:11.5px; margin-top:20px; }
+  }
   .tag-card{ border-radius:16px; padding:16px; color:#fff; }
   .tag-card .kind{ font-size:12px; opacity:.85; margin-bottom:4px;}
   .tag-card .dname{ font-size:19px; margin-bottom:6px; }
@@ -137,6 +171,7 @@
   .letter .sig{ text-align:right; color:var(--muted); font-size:13px; margin-top:10px; }
 
   .footer-note{ text-align:center; color:var(--muted); font-size:12.5px; margin-top:26px; line-height:1.6; }
+  .app-version{ display:inline-block; margin-top:8px; font-size:11px; letter-spacing:.08em; color:#9A92AD; }
   a.reset-link{ color:var(--ink); }
 </style>
 </head>
@@ -275,7 +310,8 @@ const DOMAINS = [
       '특별히 좋아하는 동물 장난감이 있다.'
     ]}
 ];
-const SCALE = ['전혀 그렇지 않다','별로 그렇지 않다','보통이다','대체로 그렇다','매우 그렇다'];
+const SCALE = ['전혀 아니다','아니다','보통','그렇다','매우 그렇다'];
+const APP_VERSION = 'v0.2';
 
 /* ============ STATE ============ */
 let screen = 'intro';           // 'intro' | 0..7 (domain index) | 'result'
@@ -362,7 +398,7 @@ function renderIntro(){
     <div class="flower-zone">${flowerSVG(null)}<div class="flower-caption">여덟 빛깔 지능의 씨앗을 심어볼까요?</div></div>
     <div class="card">
       <span class="eyebrow">1단계 · 8영역 · 80문항</span>
-      <h1 class="title">다중지능 꽃밭 검사</h1>
+      <h1 class="title">다중지능 검사</h1>
       <p class="lede">아이가 가진 여덟 가지 지능 중 어떤 꽃이 가장 활짝 피어있는지 살펴봐요. 정답은 없어요, 평소 모습 그대로 답해주세요.</p>
 
       <div class="field">
@@ -386,7 +422,7 @@ function renderIntro(){
         <button class="btn-primary" id="start-btn">검사 시작하기 🌱</button>
       </div>
     </div>
-    <div class="footer-note">총 8개 영역 · 영역당 10문항 · 중간에 이전 영역으로 돌아갈 수 있어요.<br>이 도구는 영유아의 일상 관찰을 돕는 교육적 참고 자료이며, 표준화 심리검사·발달진단 또는 의료적 판단을 대체하지 않습니다. 입력한 이름과 응답은 이 브라우저 안에서만 처리되며 서버에 저장·전송되지 않습니다.</div>
+    <div class="footer-note">총 8개 영역 · 영역당 10문항 · 중간에 이전 영역으로 돌아갈 수 있어요.<br>이 도구는 영유아의 일상 관찰을 돕는 교육적 참고 자료이며, 표준화 심리검사·발달진단 또는 의료적 판단을 대체하지 않습니다. 입력한 이름과 응답은 이 브라우저 안에서만 처리되며 서버에 저장·전송되지 않습니다.<br><span class="app-version">${APP_VERSION}</span></div>
   `;
   document.getElementById('in-name').oninput = e => child.name = e.target.value;
   document.querySelectorAll('#gender-row .radio-pill').forEach(el=>{
@@ -470,7 +506,7 @@ ${strengths[0].name}(을)를 좋아하는 마음을 살짝 빌려와 놀이처�
     <div class="flower-zone">${flowerSVG(null)}<div class="flower-caption">여덟 꽃잎이 모두 피었어요 🌸</div></div>
     <div class="card">
       <span class="eyebrow">검사 결과</span>
-      <h1 class="title">${name}의 다중지능 꽃밭</h1>
+      <h1 class="title">${name}의 다중지능 검사</h1>
       <p class="lede">평가자: ${child.evaluator} · 8개 영역 · 각 50점 만점</p>
 
       <div style="display:flex; justify-content:center; margin-bottom:10px;">${radarSVG(scores)}</div>
@@ -501,13 +537,13 @@ ${strengths[0].name}(을)를 좋아하는 마음을 살짝 빌려와 놀이처�
           </div>`).join('')}
       </div>
 
-      <div class="letter">${letterText}<div class="sig">— 다중지능 꽃밭 검사 드림</div></div>
+      <div class="letter">${letterText}<div class="sig">— 다중지능 검사 드림</div></div>
 
       <div class="btn-row">
         <button class="btn-primary" id="restart-btn">처음부터 다시 검사하기</button>
       </div>
     </div>
-    <div class="footer-note">이 결과는 강점과 보완점의 참고 자료이며, 지능의 높고 낮음을 평가하는 것이 아니에요.<br>2년 주기로 다시 검사해보면 자라나는 변화를 볼 수 있어요.</div>
+    <div class="footer-note">이 결과는 강점과 보완점의 참고 자료이며, 지능의 높고 낮음을 평가하는 것이 아니에요.<br>2년 주기로 다시 검사해보면 자라나는 변화를 볼 수 있어요.<br><span class="app-version">${APP_VERSION}</span></div>
   `;
   document.getElementById('restart-btn').onclick = ()=>{
     answers = DOMAINS.map(d => Array(d.questions.length).fill(0));
