@@ -15,7 +15,7 @@ description: "비슷해 보이는 두 개념을 각각 여러 번 읽기보다, 
 
 ## ‘비슷하다’는 말에서 멈추지 않기
 
-두 개념이 헷갈릴 때 노트에 각각의 정의를 길게 옮겨 적으면, 두 문장이 더 비슷하게 보일 수 있습니다. 이때 필요한 것은 더 많은 표시가 아니라 **선택 기준**입니다. 미국 교육부 Institute of Education Sciences의 학습 안내서는 서로 다른 문제 유형을 섞어 연습하는 것이 문제 유형을 구별하는 데 도움이 될 수 있다고 제시합니다.[^ies] 여기서 ‘섞기’의 핵심은 무작정 어려운 문제를 늘리는 일이 아니라, 어떤 특징을 보고 방법을 골랐는지 확인하는 데 있습니다.
+두 개념이 헷갈릴 때 노트에 각각의 정의를 길게 옮겨 적으면, 두 문장이 더 비슷하게 보일 수 있습니다. 이때 필요한 것은 더 많은 표시가 아니라 **선택 기준**입니다. 미국 교육부 Institute of Education Sciences의 학습 안내서는 해결된 예시와 학습자 스스로 푸는 문제를 번갈아 배치하도록 제시합니다.[^ies] 이 글의 세 칸 비교표는 그 권고를 그대로 복제하는 절차가 아니라, 예시·정의·문제에서 어떤 특징을 보았는지 짧게 드러내기 위한 교육적 적용입니다.
 
 예를 들어 과학에서 증발과 끓음을 비교한다면, ‘둘 다 액체가 기체가 되는 변화’라는 공통점만으로는 문제를 풀기 어렵습니다. `액체 전체에서 기포가 생기는가`, `특정 온도 조건이 필요한가`처럼 **둘을 가르는 특징**을 찾아야 합니다. 국어의 주장과 근거도 마찬가지입니다. 둘 다 글의 중요한 문장이지만, ‘필자가 독자에게 받아들이길 바라는 판단인가, 그 판단을 뒷받침하는 이유·자료인가’라는 역할의 차이가 선택 단서가 됩니다.
 
@@ -70,7 +70,7 @@ description: "비슷해 보이는 두 개념을 각각 여러 번 읽기보다, 
 
 ### 참고 자료
 
-[^ies]: What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. [*Organizing Instruction and Study to Improve Student Learning*](https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/20072004.pdf) (2007). Recommendation 6은 서로 다른 유형의 문제를 섞어 연습하고, 어떤 문제 유형인지 알아차리는 연습을 제시합니다. 원문 PDF 접근 확인: 2026년 7월 29일.
+[^ies]: What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. [*Organizing Instruction and Study to Improve Student Learning*](https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/20072004.pdf) (2007). Recommendation 2는 해결된 예시와 문제 해결 연습을 번갈아 배치하는 방식을 제시합니다. 원문 PDF 접근 및 해당 권고 문구 확인: 2026년 7월 29일.
 [^kice]: 한국교육과정평가원. [연구자료 — 연구보고서](https://www.kice.re.kr/resrchBoard/list.do?cate=3&m=030103&s=kice). 교육과정·교수학습·교육평가 관련 연구자료를 공개하는 공식 자료 페이지. 페이지 접근 확인: 2026년 7월 29일.
 
 *마지막 검토: 2026년 7월 29일 · 이 글은 교육 정보를 제공하며 의학적·임상적 진단이나 치료를 대체하지 않습니다.*
