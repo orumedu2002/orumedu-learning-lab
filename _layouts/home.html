@@ -54,10 +54,17 @@ layout: default
   <div class="post-list">
     {% for post in site.posts limit: 6 %}
       <article class="post-card">
-        <p class="post-meta">{{ post.date | date: "%Y. %m. %d" }} · {{ post.categories | join: " · " }}</p>
-        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-        <p>{{ post.description }}</p>
-        <a class="text-link" href="{{ post.url | relative_url }}">읽어보기 <span aria-hidden="true">›</span></a>
+        <a class="post-card-image" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">
+          {% if post.thumbnail %}
+            <img src="{{ post.thumbnail | relative_url }}" alt="" loading="lazy" decoding="async">
+          {% endif %}
+        </a>
+        <div class="post-card-copy">
+          <p class="post-meta">{{ post.date | date: "%Y. %m. %d" }} · {{ post.categories | join: " · " }}</p>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p>{{ post.description }}</p>
+          <a class="text-link" href="{{ post.url | relative_url }}">읽어보기 <span aria-hidden="true">›</span></a>
+        </div>
       </article>
     {% endfor %}
   </div>

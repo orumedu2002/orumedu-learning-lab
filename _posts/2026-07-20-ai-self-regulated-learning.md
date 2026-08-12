@@ -5,6 +5,7 @@ date: 2026-07-20 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학, 자기조절학습]
 tags: [메타인지, 자기조절학습, 디지털학습, 학습전략]
+thumbnail: "/assets/images/2026-07-20-ai-self-regulated-learning-thumbnail.png"
 description: "AI가 답을 제공하는 시대에 학습자가 길러야 할 핵심은 정답을 얻는 속도가 아니라, 자신의 목표·이해·전략을 점검하고 조절하는 능력입니다."
 ---
 
