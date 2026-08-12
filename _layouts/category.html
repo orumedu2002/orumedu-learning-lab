@@ -14,7 +14,7 @@ layout: default
         <article class="post-card">
           <a class="post-card-image" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">
             {% if post.thumbnail %}
-              <img src="{{ post.thumbnail | relative_url }}" alt="" loading="lazy" decoding="async">
+              <img src="{{ post.thumbnail | relative_url }}" alt="" decoding="async">
             {% endif %}
           </a>
           <div class="post-card-copy">
