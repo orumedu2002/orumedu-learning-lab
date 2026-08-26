@@ -5,6 +5,7 @@ date: 2026-08-27 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습습관, 과제관리, 환경단서, 자기점검]
+thumbnail: "/assets/images/2026-08-27-completion-bag-door-check-thumbnail.png"
 description: "숙제를 하지 않았다는 판단에 앞서, 완료 뒤 과제가 가방과 출발 동선까지 이어지는지 세 지점에서 살피는 교육적 점검을 소개합니다."
 ---
 
