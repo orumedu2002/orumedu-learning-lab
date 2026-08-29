@@ -19,7 +19,7 @@ description: "한 내용을 외운 뒤 질문의 표현·사례·순서를 하�
 
 인출 연습은 책을 덮고 답을 만들어 보는 활동입니다. 하지만 `광합성의 산물은?`이라는 카드에 답한 것과 `식물이 빛을 이용해 무엇을 만들고, 그 물질은 어디에 쓰일까?`에 설명하는 일은 요구하는 연결이 다릅니다. 두 번째 질문은 용어를 떠올리는 일에 관계·기능을 덧붙입니다.
 
-Butler의 동료심사 연구는 반복해서 시험으로 인출한 학습이 반복 학습과 비교해 새로운 맥락의 문제에 지식을 적용하는 수행과 관련될 수 있음을 보고했습니다.[^butler] 이 결과가 “인출만 하면 모든 응용 문제가 풀린다”는 뜻은 아닙니다. 연구의 과제와 수업 장면, 학습자의 선행지식, 피드백 방식은 다를 수 있습니다. 여기에서 가져갈 수 있는 실용적 뜻은, **같은 내용을 다른 질문으로 꺼내 보며 적용의 빈칸을 확인할 이유가 있다**는 정도입니다.
+미국 교육부 산하 Institute of Education Sciences(IES)의 학습 개선 실천 안내서는 퀴즈·연습 문제처럼 학습자가 이미 배운 내용을 다시 꺼내는 활동을 학습 전략의 하나로 다룹니다.[^ies] 이 안내서가 ‘질문의 단서를 바꾸면 누구나 응용 문제를 풀 수 있다’고 보장하는 것은 아닙니다. 과제와 수업 장면, 학습자의 선행지식, 피드백 방식은 다를 수 있습니다. 여기에서 가져갈 수 있는 실용적 뜻은, **같은 내용을 다른 질문으로 꺼내 보며 적용의 빈칸을 확인할 이유가 있다**는 정도입니다.
 
 ## 7분 ‘같은 내용, 다른 단서’ 루틴
 
@@ -88,7 +88,7 @@ Butler의 동료심사 연구는 반복해서 시험으로 인출한 학습이 �
 
 ### 참고 자료
 
-[^butler]: Butler, A. C. (2010). [Repeated testing produces superior transfer of learning relative to repeated studying](https://doi.org/10.1037/a0018828). *Journal of Experimental Psychology: Learning, Memory, and Cognition, 36*(5), 1118–1133. 반복 인출과 반복 학습을 비교하고 새로운 맥락에서의 적용 수행을 다룬 국제 동료심사 논문. DOI 등록 정보 및 원문 연결 확인: 2026년 8월 30일.
+[^ies]: Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, M., & Metcalfe, J. (2007). [*Organizing Instruction and Study to Improve Student Learning*](https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/20072004.pdf). U.S. Department of Education, Institute of Education Sciences, What Works Clearinghouse. 학습을 위한 연습·퀴즈와 피드백을 포함한 실천 권고를 제시한 공식 안내서. 원문 PDF 접근 확인: 2026년 8월 30일.
 [^moe]: 교육부. (2022, 12월 22일). [교육부 고시 제2022-33호: 초·중등학교 교육과정 총론 및 각론 고시](https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=141&boardSeq=93458&lev=0&m=040401&opType=N&page=1&s=moe&statusYN=W). 국가 교육과정의 공식 고시 원문 및 첨부 자료. 원문 페이지 접근·고시 제목 확인: 2026년 8월 30일.
 
 *마지막 검토: 2026년 8월 30일 · 이 글은 교육 정보를 제공하며 개인의 의학적·임상적 진단이나 치료를 대체하지 않습니다.*
