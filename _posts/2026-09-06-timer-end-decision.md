@@ -6,6 +6,7 @@ author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습점검, 학습계획, 학습지속성, 학습전략]
 thumbnail: "/assets/images/2026-09-06-timer-end-decision-thumbnail.png"
+permalink: /posts/timer-end-decision/
 description: "정한 공부 시간이 끝났을 때 타이머를 더 누르거나 곧바로 덮기 전에, 과제의 현재 상태를 보고 계속·멈춤·질문 중 다음 선택 하나를 남기는 자기점검 방법을 소개합니다."
 ---
 
