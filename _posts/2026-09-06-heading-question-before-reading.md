@@ -5,6 +5,7 @@ date: 2026-09-06 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [읽기전략, 소제목, 질문생성, 이해점검, 메타인지]
+thumbnail: "/assets/images/kdrama-editorial-learning-science-v1.0.png"
 description: "긴 글의 소제목마다 그 절이 답할 질문을 하나씩 붙여 읽으면, 밑줄의 양보다 무엇을 찾아 확인할지 분명하게 만드는 데 도움이 될 수 있습니다."
 ---
 
