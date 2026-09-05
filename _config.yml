@@ -6,6 +6,7 @@ baseurl: "/orumedu-learning-lab"
 url: "https://orumedu2002.github.io"
 lang: ko-KR
 timezone: Asia/Seoul
+future: true
 theme: minima
 plugins:
   - jekyll-feed
