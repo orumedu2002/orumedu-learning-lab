@@ -5,6 +5,7 @@ date: 2026-09-07 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습패턴, 학습정서, CBT-informed, 자기조절, 학습코칭]
+thumbnail: "/assets/images/2026-09-07-one-testable-agreement-after-consultation-thumbnail.png"
 description: "상담 뒤 해야 할 일이 늘어날 때, 조언 목록 대신 이번 주에 관찰할 조건 하나와 작은 행동 하나를 함께 정해 보는 교육적 코칭 방법을 소개합니다."
 ---
 
