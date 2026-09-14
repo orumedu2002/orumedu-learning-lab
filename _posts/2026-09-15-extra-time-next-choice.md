@@ -7,6 +7,7 @@ categories: [자기조절학습]
 tags: [자기조절학습, 학습점검, 학습계획, 학습전략, 메타인지]
 thumbnail: "/assets/images/2026-09-15-extra-time-next-choice-thumbnail.png"
 thumbnail_alt: "오프화이트 학습 노트와 연필, 파란 책갈피가 놓인 여백 있는 학습 점검 장면"
+permalink: /posts/extra-time-next-choice/
 description: "계획한 과제를 예상보다 빨리 마쳤을 때 남은 시간을 자동으로 더 채우기보다, 지금 과제의 상태를 보고 다음 선택 하나를 정하는 자기점검 방법을 소개합니다."
 ---
 
