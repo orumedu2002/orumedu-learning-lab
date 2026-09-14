@@ -6,6 +6,7 @@ author: "백주경 교육학 박사"
 categories: [뇌파·뉴로피드백]
 tags: [EEG, 뉴로피드백, 학습기록, 관찰기간, 수면, 학습행동]
 thumbnail: "/assets/images/2026-09-15-eeg-weekly-context-window-thumbnail.png"
+thumbnail_alt: "짙은 파란 하늘과 일주일의 관찰 시간을 상징하는 점과 선으로 구성한 에디토리얼 일러스트"
 description: "한 번의 EEG·뉴로피드백 기록은 그 측정 시점의 보조 관찰이고, 일주일 학습기록은 생활 속 행동의 흐름입니다. 두 기록의 시간 창을 나누면 성급한 진단·효과 주장을 줄이고 다음 지원 질문을 정할 수 있습니다."
 ---
 
