@@ -14,7 +14,7 @@ layout: default
   </header>
   {% if page.thumbnail %}
     <figure class="article-thumbnail">
-      <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}를 위한 대표 이미지">
+      <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.thumbnail_alt | default: page.title | append: '를 위한 대표 이미지' }}">
     </figure>
   {% endif %}
   <div class="article-body">{{ content }}</div>
