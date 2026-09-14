@@ -6,6 +6,8 @@ author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습정서, 학습대화, 자율성지지, CBT-informed, 학습코칭]
 thumbnail: "/assets/images/2026-09-15-pause-write-point-choice-thumbnail.png"
+thumbnail_alt: "오프화이트 책상에서 노트의 한 지점을 가리키며 다음 학습 대화를 준비하는 학습자의 절제된 편집 일러스트"
+permalink: /posts/pause-write-point-choice/
 description: "학습상담에서 무엇부터 말해야 할지 막힐 때, 바로 설명을 요구하기보다 잠시 멈춤·한 줄 쓰기·교재의 한 곳 가리키기 중 가능한 방식을 고르는 교육적 대화 틀을 소개합니다."
 ---
 
