@@ -5,7 +5,8 @@ date: 2026-08-17 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [개념학습, 예시, 비예시, 이해점검, 학습전략]
-thumbnail: "/assets/images/2026-08-17-example-boundary-thumbnail.png"
+thumbnail: "/assets/images/2026-08-17-example-boundary-thumbnail-v2.png"
+thumbnail_alt: "두 장의 빈 학습 카드를 비교하며 개념의 경계를 살피는 대학생"
 description: "개념 정의를 읽은 뒤 그에 맞는 예와 맞지 않는 예를 하나씩 나란히 설명해 보면, 외운 문장과 실제로 적용할 수 있는 이해 사이의 경계를 점검하는 데 도움이 될 수 있습니다."
 ---
 
