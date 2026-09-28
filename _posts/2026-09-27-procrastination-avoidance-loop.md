@@ -5,6 +5,8 @@ date: 2026-09-27 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습정서, 학업미루기, CBT-informed, 자기조절, 대학생]
+thumbnail: "/assets/images/2026-09-27-procrastination-avoidance-loop-thumbnail.png"
+thumbnail_alt: "저녁 책상에서 작은 다음 행동을 기록하려는 대학생"
 description: "과제를 미룬 뒤 자신을 게으르다고 결론내리기보다, 불편한 순간·피한 행동·즉시 얻은 이득을 분리해 다음 선택을 설계하는 CBT-informed 교육적 학습상담의 기록 틀을 소개합니다."
 ---
 

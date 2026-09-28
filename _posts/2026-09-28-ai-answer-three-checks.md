@@ -6,6 +6,8 @@ author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 생성형AI, 메타인지, 학습점검, 학습전략]
 permalink: /posts/ai-answer-three-checks/
+thumbnail: "/assets/images/2026-09-28-ai-answer-three-checks-thumbnail.png"
+thumbnail_alt: "빈 자료와 색상 표시를 살피며 과제 내용을 점검하는 대학생"
 description: "생성형 AI의 답을 바로 과제에 옮기기보다 출처·적용 조건·내 설명을 짧게 점검하면, 도구의 결과를 학습자가 판단하고 다음 학습을 조정하는 자료로 바꿀 수 있습니다."
 ---
 

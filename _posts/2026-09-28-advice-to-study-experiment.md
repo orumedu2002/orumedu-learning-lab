@@ -5,6 +5,8 @@ date: 2026-09-28 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습패턴, 학습정서, CBT-informed, 학습코칭, 대학생]
+thumbnail: "/assets/images/2026-09-28-advice-to-study-experiment-thumbnail.png"
+thumbnail_alt: "도서관에서 작은 학습 실험을 기록하는 대학생"
 description: "학습상담에서 들은 조언을 그대로 지킬 약속으로 만들기보다, 학습자 자신의 말·한 번 시험할 행동·다시 볼 조건으로 바꾸어 다음 대화의 자료를 남기는 교육적 코칭 틀을 소개합니다."
 ---
 

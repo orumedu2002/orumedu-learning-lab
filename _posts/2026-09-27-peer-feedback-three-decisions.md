@@ -6,6 +6,8 @@ author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 동료피드백, 자기점검, 학습전략, 메타인지]
 permalink: /posts/peer-feedback-three-decisions/
+thumbnail: "/assets/images/2026-09-27-peer-feedback-three-decisions-thumbnail.png"
+thumbnail_alt: "세 가지 색상 카드를 보며 동료 피드백을 함께 검토하는 대학생들"
 description: "동료의 피드백을 받은 뒤 의견을 모두 따르거나 무시하기보다, 바꿀 점·확인할 점·남길 점으로 나누면 다음 학습 시도를 더 구체적으로 고를 수 있습니다."
 ---
 

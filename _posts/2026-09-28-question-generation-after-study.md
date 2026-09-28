@@ -5,6 +5,8 @@ date: 2026-09-28 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [학습과학, 질문생성, 메타인지, 인출연습, 이해점검, 대학생]
+thumbnail: "/assets/images/2026-09-28-question-generation-after-study-thumbnail.png"
+thumbnail_alt: "질문과 연결 화살표를 그리며 학습 내용을 점검하는 대학생"
 description: "학습 직후 스스로 만든 질문 하나에 답해 보며, 익숙함과 실제 설명 가능성을 구분하고 다음 복습의 초점을 찾는 작은 이해 점검을 소개합니다."
 ---
 

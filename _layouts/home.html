@@ -54,11 +54,11 @@ layout: default
   <div class="post-list">
     {% for post in site.posts limit: 6 %}
       <article class="post-card">
-        <a class="post-card-image" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">
-          {% if post.thumbnail %}
+        {% if post.thumbnail %}
+          <a class="post-card-image" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">
             <img src="{{ post.thumbnail | relative_url }}" alt="" decoding="async">
-          {% endif %}
-        </a>
+          </a>
+        {% endif %}
         <div class="post-card-copy">
           <p class="post-meta">{{ post.date | date: "%Y. %m. %d" }} · {{ post.categories | join: " · " }}</p>
           <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
