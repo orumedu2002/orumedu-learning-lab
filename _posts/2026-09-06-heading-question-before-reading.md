@@ -5,8 +5,8 @@ date: 2026-09-06 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [읽기전략, 소제목, 질문생성, 이해점검, 메타인지]
-thumbnail: "/assets/images/2026-09-06-heading-question-before-reading-thumbnail-v3.png"
-thumbnail_alt: "소제목을 질문으로 바꾸며 읽을 근거를 찾는 학생"
+thumbnail: "/assets/images/2026-09-06-heading-question-before-reading-thumbnail-v4.png"
+thumbnail_alt: "빈 구분 카드를 살피며 읽을 질문을 고르는 학생"
 description: "긴 글의 소제목마다 그 절이 답할 질문을 하나씩 붙여 읽으면, 밑줄의 양보다 무엇을 찾아 확인할지 분명하게 만드는 데 도움이 될 수 있습니다."
 ---
 

@@ -6,8 +6,8 @@ author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [문제해결, 메타인지, 자기점검, 학습전략, 학습과학]
 permalink: /posts/known-unknown-next-clue/
-thumbnail: "/assets/images/2026-09-27-known-unknown-next-clue-thumbnail.png"
-thumbnail_alt: "세 장의 빈 카드를 놓고 다음 단서를 고르는 대학생"
+thumbnail: "/assets/images/2026-09-27-known-unknown-next-clue-thumbnail-v2.png"
+thumbnail_alt: "세 장의 빈 카드를 앞에 두고 다음 단서를 고르는 대학생"
 description: "문제 풀이가 멈춘 순간, ‘나는 못 한다’는 결론 대신 이미 아는 것·찾아야 할 것·다음에 확인할 단서를 세 줄로 나누면 다음 행동을 고르는 데 도움이 될 수 있습니다."
 ---
 
