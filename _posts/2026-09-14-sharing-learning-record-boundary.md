@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 학습 기록을 보여주기 부담스러울 때: ‘공유할 한 줄·남길 부분·다음 질문’ 정하기"
 layout: post
 title: "학습 기록을 보여주기 부담스러울 때: ‘공유할 한 줄·남길 부분·다음 질문’ 정하기"
 date: 2026-09-14 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습기록, 학습정서, 자율성지지, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-09-14-sharing-learning-record-boundary-thumbnail.png"
+thumbnail: "/assets/images/2026-09-14-sharing-learning-record-boundary-thumbnail-v3.png"
 description: "학습 기록을 상담자·교사·보호자에게 보여주기 부담스러울 때, 전부 공개하거나 숨기는 대신 이번 대화에 필요한 한 줄과 다음 질문을 스스로 정해 보는 교육적 방법을 소개합니다."
 ---
 

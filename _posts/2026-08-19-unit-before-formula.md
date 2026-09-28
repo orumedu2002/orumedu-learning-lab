@@ -5,7 +5,8 @@ date: 2026-08-19 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [수학학습, 단위, 문제해결, 조건점검, 학습전략]
-thumbnail: "/assets/images/2026-08-19-unit-before-formula-thumbnail.png"
+thumbnail: "/assets/images/2026-08-19-unit-before-formula-thumbnail-v2.png"
+thumbnail_alt: "공식을 고르기 전 문제의 양과 단위를 점검하는 학생"
 description: "수치 문제를 풀기 전 알려진 양과 구할 양의 단위를 한 줄로 적으면, 공식을 고르기 전에 무엇을 비교·변환해야 하는지 점검하는 데 도움이 될 수 있습니다."
 ---
 

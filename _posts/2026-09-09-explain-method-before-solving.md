@@ -5,7 +5,8 @@ date: 2026-09-09 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [자기설명, 문제해결, 학습전략, 메타인지, 피드백]
-thumbnail: "/assets/images/2026-09-09-explain-method-before-solving-thumbnail.png"
+thumbnail: "/assets/images/2026-09-09-explain-method-before-solving-thumbnail-v2.png"
+thumbnail_alt: "풀이 전 도형 조건을 보고 방법을 설명하는 학생"
 description: "문제를 풀기 전 사용할 방법과 그 이유를 한 문장으로 말해 보면, 계산·정답 이전에 조건과 전략의 연결을 점검하는 작은 학습 기록이 될 수 있습니다."
 ---
 

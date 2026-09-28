@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 공부 약속이 지켜지지 않은 다음날: 사람 대신 ‘계획의 어긋남’을 검토하는 학습상담"
 layout: post
 title: "공부 약속이 지켜지지 않은 다음날: 사람 대신 ‘계획의 어긋남’을 검토하는 학습상담"
 date: 2026-09-08 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습계획, 학습점검, 학습정서, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-09-08-review-the-plan-not-the-person-thumbnail.png"
+thumbnail: "/assets/images/2026-09-08-review-the-plan-not-the-person-thumbnail-v3.png"
 description: "공부 약속이 지켜지지 않았을 때 의지나 태도를 판정하기보다, 계획·실제 장면·다음 조정 한 가지를 함께 검토하는 학습상담의 작은 틀을 소개합니다."
 ---
 

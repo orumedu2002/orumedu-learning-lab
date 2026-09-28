@@ -5,7 +5,8 @@ date: 2026-09-01 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습계획, 학습자선택, 자기점검, 학습지속성]
-thumbnail: "/assets/images/2026-09-01-one-choice-in-study-plan-thumbnail.png"
+thumbnail: "/assets/images/2026-09-01-one-choice-in-study-plan-thumbnail-v2.png"
+thumbnail_alt: "학습 계획에 스스로 고를 한 칸을 넣는 학습자"
 description: "해야 할 일이 이미 정해진 날에도 과제 하나에서 내가 고를 수 있는 범위와 확인할 흔적을 짧게 적어 두면, 계획을 따르는 일에서 다음 학습 행동을 조절하는 일로 옮겨 갈 작은 단서가 될 수 있습니다."
 ---
 

@@ -5,7 +5,8 @@ date: 2026-08-21 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습점검, 학습계획, 학습지속성, 학습기록]
-thumbnail: "/assets/images/2026-08-21-next-start-cue-thumbnail.png"
+thumbnail: "/assets/images/2026-08-21-next-start-cue-thumbnail-v2.png"
+thumbnail_alt: "다음 시작을 위해 책갈피와 표시를 남기는 학습자"
 description: "공부를 마칠 때 자료·다음 위치·첫 동작을 한 줄로 남기면, 다음 시작에서 무엇을 할지 다시 결정하는 부담을 줄이는 작은 점검이 될 수 있습니다."
 ---
 

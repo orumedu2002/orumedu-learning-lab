@@ -5,6 +5,8 @@ date: 2026-09-26 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [학습전략, 메타인지, 수행피드백, 인출연습, 자기점검]
+thumbnail: "/assets/images/2026-09-26-strategy-feedback-note-thumbnail-v2.png"
+thumbnail_alt: "작은 수행 기록을 위한 세 토큰을 비교하는 학생"
 description: "학습법을 바꿀지 결정하기 전, 과제 요구·쓴 전략·자료를 가린 짧은 수행을 한 줄씩 비교하면 ‘익숙한 느낌’과 실제 확인 정보를 구분하는 데 도움이 될 수 있습니다."
 ---
 

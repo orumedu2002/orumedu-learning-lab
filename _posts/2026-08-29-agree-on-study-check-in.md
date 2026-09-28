@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 공부 확인이 감시처럼 느껴질 때: ‘시각·흔적·도움’을 함께 정하는 학습상담"
 layout: post
 title: "공부 확인이 감시처럼 느껴질 때: ‘시각·흔적·도움’을 함께 정하는 학습상담"
 date: 2026-08-29 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습대화, 보호자지원, 자율성지지, 학습점검, CBT-informed]
-thumbnail: "/assets/images/2026-08-29-agree-on-study-check-in-thumbnail.png"
+thumbnail: "/assets/images/2026-08-29-agree-on-study-check-in-thumbnail-v3.png"
 description: "공부를 했는지 확인하는 대화가 감시나 다툼으로 흐를 때, 확인할 시각·볼 학습 흔적·필요한 도움을 학생과 함께 정해 보는 교육적 학습상담 틀을 소개합니다."
 ---
 

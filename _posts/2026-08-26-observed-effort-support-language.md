@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 학습상담에서 격려가 막힐 때: 성격 칭찬 대신 ‘관찰한 시도·다음 지원’을 함께 말하기"
 layout: post
 title: "학습상담에서 격려가 막힐 때: 성격 칭찬 대신 ‘관찰한 시도·다음 지원’을 함께 말하기"
 date: 2026-08-26 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습정서, 격려, 학업자기효능감, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-08-26-observed-effort-support-language-thumbnail.png"
+thumbnail: "/assets/images/2026-08-26-observed-effort-support-language-thumbnail-v3.png"
 description: "공부가 잘되지 않는 학생을 격려할 때 성격을 평가하는 칭찬보다, 관찰한 시도와 다음에 필요한 지원을 함께 말하는 교육적 대화 틀을 소개합니다."
 ---
 

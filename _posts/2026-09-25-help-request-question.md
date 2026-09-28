@@ -5,8 +5,8 @@ date: 2026-09-25 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 도움요청, 학습점검, 메타인지, 학습전략]
-thumbnail: "/assets/images/2026-09-25-help-request-question-thumbnail.png"
-thumbnail_alt: "오프화이트 노트와 파란 질문 카드, 연필이 놓인 차분한 학습 점검 장면"
+thumbnail: "/assets/images/2026-09-25-help-request-question-thumbnail-v2.png"
+thumbnail_alt: "막힌 문제에서 도움을 요청할 지점을 정리하는 학습자"
 permalink: /posts/help-request-question/
 description: "막힌 과제에서 도움을 요청하기 전에 현재 위치·이미 해 본 전략·구체적 질문을 한 줄로 정리하면, 답을 대신 받기보다 다음 학습 행동을 함께 고르기 쉬울 수 있습니다."
 ---

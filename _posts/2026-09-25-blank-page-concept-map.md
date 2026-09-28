@@ -5,8 +5,8 @@ date: 2026-09-25 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [개념도, 인출연습, 기억, 이해점검, 학습전략]
-thumbnail: "/assets/images/2026-09-25-blank-page-concept-map-thumbnail.png"
-thumbnail_alt: "오프화이트 종이 위에 파란 선으로 연결된 추상적인 개념 구조를 바라보는 학습 장면"
+thumbnail: "/assets/images/2026-09-25-blank-page-concept-map-thumbnail-v2.png"
+thumbnail_alt: "빈 종이에 기억의 개념 연결을 거칠게 그리는 학생"
 description: "마인드맵을 자료를 보며 예쁘게 완성하기 전에 빈 종이에 핵심어와 연결을 짧게 꺼내 본 뒤 원문과 대조하면, 기억의 빈칸과 관계의 오류를 점검하는 데 도움이 될 수 있습니다."
 ---
 

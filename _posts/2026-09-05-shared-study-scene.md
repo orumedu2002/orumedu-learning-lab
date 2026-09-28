@@ -1,4 +1,6 @@
 ---
+thumbnail_alt: "학습상담 장면: 학생과 보호자의 공부 기록이 다를 때: 누가 맞는지보다 ‘함께 확인할 장면’ 정하기"
+thumbnail: "/assets/images/2026-09-05-shared-study-scene-thumbnail-v3.png"
 layout: post
 title: "학생과 보호자의 공부 기록이 다를 때: 누가 맞는지보다 ‘함께 확인할 장면’ 정하기"
 date: 2026-09-05 07:30:00 +0900

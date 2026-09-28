@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 공부가 막힌 이유를 말로 설명하기 어려울 때: ‘표시·선택·질문’으로 시작하는 학습상담"
 layout: post
 title: "공부가 막힌 이유를 말로 설명하기 어려울 때: ‘표시·선택·질문’으로 시작하는 학습상담"
 date: 2026-08-23 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습패턴, 도움요청, 학습정서, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-08-23-mark-before-explaining-thumbnail.png"
+thumbnail: "/assets/images/2026-08-23-mark-before-explaining-thumbnail-v3.png"
 description: "공부가 막힌 이유를 바로 말하기 어렵다면, 과제에서 멈춘 곳을 표시하고 가까운 선택지를 고른 뒤 질문 한 줄을 만드는 교육적 학습상담 방법을 소개합니다."
 ---
 

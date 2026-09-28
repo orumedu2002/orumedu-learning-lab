@@ -5,7 +5,8 @@ date: 2026-09-12 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 주간계획, 학습점검, 계획조정, 지속성]
-thumbnail: "/assets/images/2026-09-12-weekly-plan-buffer-thumbnail.png"
+thumbnail: "/assets/images/2026-09-12-weekly-plan-buffer-thumbnail-v2.png"
+thumbnail_alt: "주간 계획표에 조정 시간을 남기는 학습자"
 description: "주간 계획의 모든 칸을 과제로 채우기보다, 예상 밖의 과제와 점검을 위한 짧은 조정 시간을 남겨 두면 계획이 어긋났을 때 다음 선택을 다시 고르기 쉬울 수 있습니다."
 ---
 

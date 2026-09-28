@@ -5,7 +5,8 @@ date: 2026-08-30 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [인출연습, 기억, 전이, 메타인지, 학습전략]
-thumbnail: "/assets/images/2026-08-30-change-the-cue-recall-thumbnail.png"
+thumbnail: "/assets/images/2026-08-30-change-the-cue-recall-thumbnail-v2.png"
+thumbnail_alt: "다른 단서 카드로 같은 개념을 회상하는 학생"
 description: "한 내용을 외운 뒤 질문의 표현·사례·순서를 하나만 바꾸어 다시 설명해 보면, 기억한 말과 실제로 적용할 수 있는 관계를 구분해 점검하는 데 도움이 될 수 있습니다."
 ---
 

@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 공부하다 자꾸 자리를 뜨게 될 때: ‘떠난 장면·돌아온 조건·다음 10분’으로 살피는 학습상담"
 layout: post
 title: "공부하다 자꾸 자리를 뜨게 될 때: ‘떠난 장면·돌아온 조건·다음 10분’으로 살피는 학습상담"
 date: 2026-09-02 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습행동, 학습환경, 자기점검, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-09-02-comparison-is-not-verdict-thumbnail.png"
+thumbnail: "/assets/images/2026-09-02-comparison-is-not-verdict-thumbnail-v3.png"
 description: "공부를 시작해도 자주 자리를 뜨게 될 때, 의지의 부족으로 단정하지 않고 떠난 장면과 돌아온 조건을 살펴 다음 10분을 설계하는 교육적 학습상담 틀을 소개합니다."
 ---
 

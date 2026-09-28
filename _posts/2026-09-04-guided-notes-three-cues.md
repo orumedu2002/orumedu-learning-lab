@@ -5,7 +5,8 @@ date: 2026-09-04 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [수업필기, 안내필기, 이해점검, 학습전략, 메타인지]
-thumbnail: "/assets/images/2026-09-04-guided-notes-three-cues-thumbnail.png"
+thumbnail: "/assets/images/2026-09-04-guided-notes-three-cues-thumbnail-v2.png"
+thumbnail_alt: "수업 노트에 핵심과 이유와 질문의 빈칸을 남기는 학생"
 description: "수업 뒤 필기를 통째로 다시 정리하기보다 핵심·이유·질문 세 칸만 비워 두고 채워 보면, 무엇을 들었는지와 무엇을 확인해야 하는지를 구분하는 데 도움이 될 수 있습니다."
 ---
 

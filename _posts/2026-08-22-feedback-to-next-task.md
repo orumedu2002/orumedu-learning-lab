@@ -5,7 +5,8 @@ date: 2026-08-22 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습점검, 피드백, 학습회고, 학습전략]
-thumbnail: "/assets/images/2026-08-22-feedback-to-next-task-thumbnail.png"
+thumbnail: "/assets/images/2026-08-22-feedback-to-next-task-thumbnail-v2.png"
+thumbnail_alt: "피드백 자료를 다음 과제 카드와 연결하는 학습자"
 description: "채점이나 피드백 뒤에 점수만 보지 않고 유지할 전략, 아직 확인할 공백, 다음 과제 한 가지를 분리해 적으면 다음 학습의 선택을 더 구체적으로 할 수 있습니다."
 ---
 

@@ -5,7 +5,8 @@ date: 2026-08-31 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습계획, 시간관리, 계획조정, 학습지속성]
-thumbnail: "/assets/images/2026-08-31-two-time-plans-thumbnail.png"
+thumbnail: "/assets/images/2026-08-31-two-time-plans-thumbnail-v2.png"
+thumbnail_alt: "서로 다른 길이의 학습 준비물을 나누어 두는 학습자"
 description: "공부할 시간을 정확히 예측하기 어려운 날에는 같은 과제에 15분과 40분 버전을 미리 적어 두면, 짧은 빈 시간을 포기나 무리한 만회 대신 다음 학습의 작은 선택으로 쓸 수 있습니다."
 ---
 

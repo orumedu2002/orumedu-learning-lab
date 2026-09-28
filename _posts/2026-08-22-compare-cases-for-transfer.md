@@ -5,7 +5,8 @@ date: 2026-08-22 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [사례비교, 전이, 개념이해, 학습전략, 메타인지]
-thumbnail: "/assets/images/2026-08-22-compare-cases-for-transfer-thumbnail.png"
+thumbnail: "/assets/images/2026-08-22-compare-cases-for-transfer-thumbnail-v2.png"
+thumbnail_alt: "두 사례의 공통점과 조건 차이를 비교하는 학생들"
 description: "비슷해 보이지 않는 예시 두 개에서 공통 원리와 달라지는 조건을 각각 한 줄로 비교해 보면, 사례를 외우는 데서 그치지 않고 언제 어떤 개념을 써야 할지 점검하는 데 도움이 될 수 있습니다."
 ---
 

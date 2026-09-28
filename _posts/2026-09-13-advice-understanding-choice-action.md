@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 조언을 들은 뒤 ‘네’라고만 하게 될 때: ‘이해·선택·첫 행동’을 나누는 학습상담"
 layout: post
 title: "조언을 들은 뒤 ‘네’라고만 하게 될 때: ‘이해·선택·첫 행동’을 나누는 학습상담"
 date: 2026-09-13 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습정서, CBT-informed, 학습코칭, 자기조절, 의사소통]
-thumbnail: "/assets/images/2026-09-13-advice-understanding-choice-action-thumbnail.png"
+thumbnail: "/assets/images/2026-09-13-advice-understanding-choice-action-thumbnail-v3.png"
 description: "학습상담에서 조언을 들은 뒤 곧바로 ‘네’라고 답하게 될 때, 이해·선택·첫 행동을 구분해 학생 자신의 실행 문장으로 남기는 교육적 대화 틀을 소개합니다."
 ---
 

@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 학습상담 끝에 조언이 많아질 때: 다음 행동을 ‘두 가지 선택지’로 남기는 법"
 layout: post
 title: "학습상담 끝에 조언이 많아질 때: 다음 행동을 ‘두 가지 선택지’로 남기는 법"
 date: 2026-08-18 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습패턴, 학습정서, CBT-informed, 학습코칭, 자기피드백]
-thumbnail: "/assets/images/2026-08-18-two-choices-next-action-thumbnail.png"
+thumbnail: "/assets/images/2026-08-18-two-choices-next-action-thumbnail-v3.png"
 description: "학습상담 뒤 해야 할 일이 너무 많아질 때, 한 가지 정답을 지시하기보다 확인 가능한 다음 행동 두 가지를 함께 놓고 학생이 고르게 하는 교육적 기록을 소개합니다."
 ---
 

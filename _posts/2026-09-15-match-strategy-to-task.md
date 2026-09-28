@@ -5,7 +5,8 @@ date: 2026-09-15 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [학습전략, 메타인지, 과제분석, 학습점검, 자기조절]
-thumbnail: "/assets/images/2026-09-15-match-strategy-to-task-thumbnail.png"
+thumbnail: "/assets/images/2026-09-15-match-strategy-to-task-thumbnail-v2.png"
+thumbnail_alt: "학습 내용과 목표와 확인 방식을 카드로 비교하는 학생"
 permalink: /posts/match-strategy-to-task/
 description: "학습전략을 고르기 전에 배울 내용·하려는 수행·확인할 방법을 짧게 나란히 적어 보면, 익숙한 공부법을 반복하기보다 현재 과제에 맞는 다음 행동을 고르는 데 도움이 될 수 있습니다."
 ---

@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 학습상담에서 ‘모르겠어요’가 반복될 때: 기억 대신 교재 한 쪽에서 ‘보인 것·막힌 것·다음 질문’ 찾기"
 layout: post
 title: "학습상담에서 ‘모르겠어요’가 반복될 때: 기억 대신 교재 한 쪽에서 ‘보인 것·막힌 것·다음 질문’ 찾기"
 date: 2026-08-30 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습대화, 도움요청, 학습패턴, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/kdrama-editorial-learning-consulting-v1.0.png"
+thumbnail: "/assets/images/2026-08-30-page-based-consulting-check-thumbnail-v3.png"
 description: "학습상담에서 설명이 막힐 때 기억을 캐묻기보다 교재 한 쪽을 함께 보고, 보인 것·막힌 것·다음 질문을 나누어 다음 학습 행동을 정하는 교육적 대화 틀을 소개합니다."
 ---
 

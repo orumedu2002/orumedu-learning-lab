@@ -5,8 +5,9 @@ date: 2026-09-02 07:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [뇌파·뉴로피드백]
 tags: [뉴로피드백, EEG, 피드백화면, 측정조건, 학습기록, 교육상담]
-thumbnail: "/assets/images/2026-09-02-neurofeedback-display-is-not-learning-score-thumbnail.png"
+thumbnail: "/assets/images/2026-09-02-neurofeedback-display-is-not-learning-score-thumbnail-v2.png"
 description: "뉴로피드백 화면의 점수·보상 표시는 그 세션의 정해진 절차에서 나온 피드백일 뿐, 학생의 집중력·능력·진단이나 학습 성적표가 아닙니다. 화면·상태·생활 기록을 나누어 보는 작은 방법을 안내합니다."
+thumbnail_alt: "빛의 피드백과 세 가지 별도 기록 카드를 살피는 학생과 보호자"
 ---
 
 뉴로피드백을 하는 동안 점수나 막대그래프가 올라가면 “오늘은 집중을 잘한 건가요?”라는 질문이 생깁니다. 반대로 점수가 기대보다 낮으면 학생이 공부를 못 하거나 노력을 덜 했다는 말처럼 들릴 수도 있습니다. 짧은 결론은 분명합니다. **화면의 점수·보상 표시는 그 세션에서 정한 신호 처리와 절차에 따른 피드백이지, 학생의 집중력·능력·ADHD·불안을 판정하는 학습 성적표가 아닙니다.**

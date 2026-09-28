@@ -5,7 +5,8 @@ date: 2026-09-13 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습계획, 계획조정, 우선순위, 학습점검]
-thumbnail: "/assets/images/2026-09-13-unplanned-task-triage-thumbnail.png"
+thumbnail: "/assets/images/2026-09-13-unplanned-task-triage-thumbnail-v2.png"
+thumbnail_alt: "예정 밖 과제를 받아 첫 단계를 고르는 학습자"
 description: "예정에 없던 과제가 생겼을 때, 남은 일을 모두 밀어 넣기보다 마감·첫 단계·필요한 도움을 짧게 구분하면 다음 학습 행동을 더 현실적으로 고를 수 있습니다."
 ---
 

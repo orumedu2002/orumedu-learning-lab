@@ -5,7 +5,8 @@ date: 2026-09-05 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [사전훈련, 핵심용어, 멀티미디어학습, 이해점검, 학습전략]
-thumbnail: "/assets/images/2026-09-05-key-terms-before-lesson-thumbnail.png"
+thumbnail: "/assets/images/2026-09-05-key-terms-before-lesson-thumbnail-v2.png"
+thumbnail_alt: "수업 전 핵심 용어 카드를 칠판에 놓는 학생"
 description: "새 단원의 영상·그림·설명을 보기 전 핵심 용어 세 개에 뜻과 등장할 자리를 짧게 붙여 두면, 설명을 따라갈 단서를 만드는 데 도움이 될 수 있습니다."
 ---
 

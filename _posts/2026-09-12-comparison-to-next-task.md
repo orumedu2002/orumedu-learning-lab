@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 다른 사람의 공부가 더 잘돼 보일 때: ‘비교 장면·내 과제·다음 행동’으로 돌아오는 학습상담"
 layout: post
 title: "다른 사람의 공부가 더 잘돼 보일 때: ‘비교 장면·내 과제·다음 행동’으로 돌아오는 학습상담"
 date: 2026-09-12 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습정서, 사회비교, 자기조절, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-09-12-comparison-to-next-task-thumbnail.png"
+thumbnail: "/assets/images/2026-09-12-comparison-to-next-task-thumbnail-v3.png"
 description: "다른 사람의 성적·진도·공부 인증을 본 뒤 위축될 때, 비교의 장면과 지금의 과제를 분리해 다음 한 행동으로 돌아오는 교육적 학습상담 기록을 소개합니다."
 ---
 

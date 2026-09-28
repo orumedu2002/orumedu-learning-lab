@@ -5,7 +5,8 @@ date: 2026-09-05 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습계획, 학습전략, 과목전환, 자기점검]
-thumbnail: "/assets/images/2026-09-05-subject-switch-note-thumbnail.png"
+thumbnail: "/assets/images/2026-09-05-subject-switch-note-thumbnail-v2.png"
+thumbnail_alt: "다른 과목으로 전환하며 돌아올 위치를 남기는 학습자"
 description: "한 과목이 막혀 잠시 다른 과목으로 옮길 때, 피한 이유를 판정하기보다 현재 위치·막힌 지점·돌아올 첫 행동을 한 줄로 남기면 다음 전환을 점검할 수 있습니다."
 ---
 

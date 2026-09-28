@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 학습상담에서 조언이 급해질 때: 먼저 ‘이번 대화에서 확인할 질문’ 한 줄 합의하기"
 layout: post
 title: "학습상담에서 조언이 급해질 때: 먼저 ‘이번 대화에서 확인할 질문’ 한 줄 합의하기"
 date: 2026-08-21 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습패턴, 목표설정, 학습정서, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-08-21-consulting-question-before-advice-thumbnail.png"
+thumbnail: "/assets/images/2026-08-21-consulting-question-before-advice-thumbnail-v3.png"
 description: "학습상담에서 곧바로 조언을 쌓기보다, 학습자가 이번 대화에서 확인하고 싶은 질문을 한 줄로 합의해 다음 행동을 고르는 교육적 코칭 방법을 소개합니다."
 ---
 

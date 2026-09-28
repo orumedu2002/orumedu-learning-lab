@@ -5,7 +5,8 @@ date: 2026-08-18 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습계획, 계획수정, 학습점검, 지속성]
-thumbnail: "/assets/images/2026-08-18-revise-plan-with-one-reason-thumbnail.png"
+thumbnail: "/assets/images/2026-08-18-revise-plan-with-one-reason-thumbnail-v2.png"
+thumbnail_alt: "학습 계획을 수정하며 이유를 짧게 남기는 학습자"
 description: "계획이 어긋난 날에는 처음 계획을 지웠다는 사실보다, 무엇을 보고 어떻게 한 가지만 바꿨는지 남기는 짧은 수정 기록이 다음 선택의 근거가 될 수 있습니다."
 ---
 

@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 첨삭을 받고 손이 멈출 때: ‘표시된 곳·요구한 기준·고를 수정 한 줄’로 보는 학습상담"
 layout: post
 title: "첨삭을 받고 손이 멈출 때: ‘표시된 곳·요구한 기준·고를 수정 한 줄’로 보는 학습상담"
 date: 2026-09-25 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습피드백, 학습정서, 자기조절, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-09-25-feedback-revision-choice-thumbnail.png"
+thumbnail: "/assets/images/2026-09-25-feedback-revision-choice-thumbnail-v3.png"
 description: "첨삭이나 오답 표시를 받은 뒤 손이 멈출 때, 평가 문장과 과제의 기준, 다음에 고를 작은 수정 행동을 구분해 보는 교육적 학습상담 틀을 소개합니다."
 ---
 

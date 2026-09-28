@@ -1,4 +1,6 @@
 ---
+thumbnail_alt: "학습상담 장면: 공부 시간은 긴데 남는 것이 없다고 느낄 때: ‘노력·전략·증거’를 나누는 학습상담"
+thumbnail: "/assets/images/2026-08-25-effort-strategy-evidence-conversation-thumbnail-v3.png"
 layout: post
 title: "공부 시간은 긴데 남는 것이 없다고 느낄 때: ‘노력·전략·증거’를 나누는 학습상담"
 date: 2026-08-25 07:30:00 +0900

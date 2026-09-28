@@ -5,7 +5,8 @@ date: 2026-09-08 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습목표, 학습계획, 학습점검, 메타인지]
-thumbnail: "/assets/images/kdrama-editorial-self-regulated-learning-v1.0.png"
+thumbnail: "/assets/images/2026-09-08-finish-check-before-study-thumbnail-v2.png"
+thumbnail_alt: "완료 기준을 정하고 자료를 가려 확인하는 학습자"
 permalink: /posts/finish-check-before-study/
 description: "공부량만 정하기보다 시작 전에 무엇을 하면 이번 과제를 잠시 마칠지 한 줄로 정하면, 끝난 뒤 다음 전략을 고를 수 있는 점검 자료를 남길 수 있습니다."
 ---

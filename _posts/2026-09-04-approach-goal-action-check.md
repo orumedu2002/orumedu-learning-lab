@@ -5,7 +5,8 @@ date: 2026-09-04 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습목표, 학습계획, 자기점검, 학습정서]
-thumbnail: "/assets/images/2026-09-04-approach-goal-action-check-thumbnail.png"
+thumbnail: "/assets/images/2026-09-04-approach-goal-action-check-thumbnail-v2.png"
+thumbnail_alt: "걱정을 한 가지 학습 행동으로 바꾸는 학습자"
 description: "시험이나 마감이 가까워질 때 ‘실수하지 않기’라는 걱정을 오늘 확인할 행동 한 가지로 바꾸어 적으면, 결과 불안을 과제의 다음 선택과 분리해 볼 수 있습니다."
 ---
 

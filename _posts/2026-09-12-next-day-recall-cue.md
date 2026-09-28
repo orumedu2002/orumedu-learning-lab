@@ -5,7 +5,8 @@ date: 2026-09-12 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [분산학습, 인출연습, 기억, 복습, 학습전략]
-thumbnail: "/assets/images/2026-09-12-next-day-recall-cue-thumbnail.png"
+thumbnail: "/assets/images/2026-09-12-next-day-recall-cue-thumbnail-v2.png"
+thumbnail_alt: "다음 날 회상을 위한 단서 카드를 책에 남기는 학생"
 description: "오늘의 학습 끝에 다음날 다시 떠올릴 질문 하나를 남기고, 자료를 열기 전 짧게 답해 보면 복습의 출발점을 더 구체적으로 정할 수 있습니다."
 ---
 

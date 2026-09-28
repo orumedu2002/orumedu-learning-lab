@@ -5,7 +5,8 @@ date: 2026-08-25 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [개념도, 연결, 이해점검, 정교화, 학습전략]
-thumbnail: "/assets/images/2026-08-25-concept-map-link-check-thumbnail.png"
+thumbnail: "/assets/images/2026-08-25-concept-map-link-check-thumbnail-v2.png"
+thumbnail_alt: "개념도 연결선의 이유를 점검하는 학생"
 description: "개념을 동그라미로 많이 적는 것보다, 두 개념 사이 연결선 하나를 골라 관계와 조건을 말로 확인하면 무엇을 이해했고 무엇을 다시 봐야 하는지 드러낼 수 있습니다."
 ---
 

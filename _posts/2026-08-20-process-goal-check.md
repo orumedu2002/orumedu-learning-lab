@@ -5,7 +5,8 @@ date: 2026-08-20 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습목표, 과정목표, 학습점검, 자기피드백]
-thumbnail: "/assets/images/2026-08-20-process-goal-check-thumbnail.png"
+thumbnail: "/assets/images/2026-08-20-process-goal-check-thumbnail-v2.png"
+thumbnail_alt: "목표와 과정 확인을 나누어 기록하는 학습자"
 description: "시험 점수·제출 같은 결과 목표는 남기되, 오늘 실제로 확인할 과정 한 줄을 함께 적으면 목표를 자기판정이 아니라 다음 학습 선택의 기준으로 다루는 데 도움이 될 수 있습니다."
 ---
 

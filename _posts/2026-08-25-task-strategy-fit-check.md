@@ -5,7 +5,8 @@ date: 2026-08-25 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습전략, 메타인지, 학습점검, 계획조정]
-thumbnail: "/assets/images/2026-08-25-task-strategy-fit-check-thumbnail.png"
+thumbnail: "/assets/images/2026-08-25-task-strategy-fit-check-thumbnail-v2.png"
+thumbnail_alt: "과제에 맞는 학습 전략을 고르는 학습자"
 description: "공부가 잘되지 않을 때 노력의 양만 늘리기보다, 과제가 요구하는 일·방금 쓴 전략·확인 결과를 나란히 적으면 다음 전략을 더 구체적으로 고르는 데 도움이 될 수 있습니다."
 ---
 

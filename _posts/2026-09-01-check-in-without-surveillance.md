@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 계획 점검이 감시처럼 느껴질 때: 학생이 먼저 고르는 ‘한 가지 확인’ 학습상담"
 layout: post
 title: "계획 점검이 감시처럼 느껴질 때: 학생이 먼저 고르는 ‘한 가지 확인’ 학습상담"
 date: 2026-09-01 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습정서, 학습대화, 자율성지지, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-09-01-check-in-without-surveillance-thumbnail.png"
+thumbnail: "/assets/images/2026-09-01-check-in-without-surveillance-thumbnail-v3.png"
 description: "학습 계획을 확인하는 대화가 감시나 판정으로 느껴질 때, 학생이 먼저 고를 수 있는 한 가지 점검 질문으로 대화를 다시 여는 교육적 방법을 소개합니다."
 ---
 

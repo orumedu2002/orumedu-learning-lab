@@ -5,7 +5,8 @@ date: 2026-08-30 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습계획, 우선순위, 학습점검, 학습지속성]
-thumbnail: "/assets/images/2026-08-30-core-and-option-study-plan-thumbnail.png"
+thumbnail: "/assets/images/2026-08-30-core-and-option-study-plan-thumbnail-v2.png"
+thumbnail_alt: "핵심 과제와 선택 과제를 나누는 학습자"
 description: "하루 계획을 모두 같은 무게로 적기보다 꼭 확인할 핵심 과제 한 개와 여유가 있을 때 할 선택 과제 한 개를 구분하면, 계획이 바뀐 날에도 다음 행동을 고르기 쉬워질 수 있습니다."
 ---
 

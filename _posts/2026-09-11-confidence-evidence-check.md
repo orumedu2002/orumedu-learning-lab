@@ -5,7 +5,8 @@ date: 2026-09-11 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습점검, 메타인지, 자기평가, 학습전략]
-thumbnail: "/assets/images/2026-09-11-confidence-evidence-check-thumbnail.png"
+thumbnail: "/assets/images/2026-09-11-confidence-evidence-check-thumbnail-v2.png"
+thumbnail_alt: "자신감 느낌과 근거를 나누어 확인하는 학습자"
 description: "공부가 잘된 것 같은 느낌과 실제로 설명할 수 있는 근거를 따로 남기면, 다음에 복습·문제풀이·질문 중 무엇을 할지 더 구체적으로 고를 수 있습니다."
 ---
 

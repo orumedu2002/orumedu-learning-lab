@@ -5,7 +5,8 @@ date: 2026-08-19 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습계획, 우선순위, 학습점검, 과제선택]
-thumbnail: "/assets/images/2026-08-19-order-tasks-by-first-evidence-thumbnail.png"
+thumbnail: "/assets/images/2026-08-19-order-tasks-by-first-evidence-thumbnail-v2.png"
+thumbnail_alt: "할 일 카드의 첫 확인 단계를 비교하는 학습자"
 description: "할 일이 겹칠 때에는 가장 많이 끝낼 과제를 고르기보다, 마감·막힌 지점·다음 행동을 알려 줄 증거가 남는 과제 하나부터 고르는 점검이 도움이 될 수 있습니다."
 ---
 

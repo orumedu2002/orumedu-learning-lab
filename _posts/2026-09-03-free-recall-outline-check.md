@@ -5,7 +5,8 @@ date: 2026-09-03 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [인출연습, 자유회상, 기억점검, 목차점검, 학습전략]
-thumbnail: "/assets/images/2026-09-03-free-recall-outline-check-thumbnail.png"
+thumbnail: "/assets/images/2026-09-03-free-recall-outline-check-thumbnail-v3.png"
+thumbnail_alt: "책을 덮고 빈 종이에 개요를 떠올리는 학생"
 description: "읽은 범위를 덮고 기억나는 구조를 먼저 짧게 적은 뒤 목차·소제목과 대조하면, 많이 읽었다는 느낌과 실제로 다시 꺼낼 수 있는 연결을 구분해 다음 복습을 고르는 데 도움이 될 수 있습니다."
 ---
 

@@ -5,7 +5,8 @@ date: 2026-09-11 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [풀이비교, 문제해결, 개념이해, 메타인지, 학습전략]
-thumbnail: "/assets/images/2026-09-11-compare-solution-methods-thumbnail.png"
+thumbnail: "/assets/images/2026-09-11-compare-solution-methods-thumbnail-v2.png"
+thumbnail_alt: "두 풀이 방법의 시작 조건을 비교하는 학생들"
 description: "같은 문제를 푸는 두 방법을 답의 빠르기만으로 고르기보다, 시작 조건·공통 단계·다른 선택을 나란히 적어 보면 다음 문제에서 방법을 고를 단서를 만들 수 있습니다."
 ---
 

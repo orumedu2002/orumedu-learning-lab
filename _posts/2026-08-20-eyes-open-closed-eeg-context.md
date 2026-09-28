@@ -5,7 +5,7 @@ date: 2026-08-20 07:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [뇌파·뉴로피드백]
 tags: [EEG, 뇌파, 측정조건, 눈뜸, 눈감음, 학습기록]
-thumbnail: "/assets/images/2026-08-20-eyes-open-closed-eeg-context-thumbnail-v2.png"
+thumbnail: "/assets/images/2026-08-20-eyes-open-closed-eeg-context-thumbnail-v3.png"
 thumbnail_alt: "눈을 감은 상태에서 뇌파 측정 조건을 차분히 살피는 학습자"
 description: "눈을 뜬 상태와 감은 상태의 EEG는 같은 질문에 답하지 않을 수 있습니다. 결과를 학습의 판정으로 쓰기보다, 측정 조건과 생활 기록을 함께 남기는 법을 살펴봅니다."
 ---

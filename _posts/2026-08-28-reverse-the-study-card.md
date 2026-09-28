@@ -5,7 +5,8 @@ date: 2026-08-28 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [인출연습, 학습카드, 개념이해, 기억, 학습전략]
-thumbnail: "/assets/images/2026-08-28-reverse-the-study-card-thumbnail.png"
+thumbnail: "/assets/images/2026-08-28-reverse-the-study-card-thumbnail-v2.png"
+thumbnail_alt: "앞뒤 방향을 바꾼 학습 카드를 확인하는 학생"
 description: "용어에서 뜻을 말해 본 뒤, 뜻이나 사례에서 다시 용어·조건을 꺼내 보는 양방향 학습 카드는 기억의 빈칸과 설명의 빈칸을 구분하는 작은 점검이 될 수 있습니다."
 ---
 

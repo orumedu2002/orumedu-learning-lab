@@ -5,8 +5,9 @@ date: 2026-08-29 07:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [뇌파·뉴로피드백]
 tags: [EEG, 뇌파, 신호품질, 전극, 측정조건, 학습행동, 뉴로피드백]
-thumbnail: "/assets/images/2026-08-29-eeg-signal-quality-is-not-learning-attitude-thumbnail.png"
+thumbnail: "/assets/images/2026-08-29-eeg-signal-quality-is-not-learning-attitude-thumbnail-v2.png"
 description: "EEG의 접촉·움직임·신호 품질 알림은 기록 절차를 점검할 단서이지, 학생의 협조성·집중력·학습 태도를 평가하는 점수가 아닙니다."
+thumbnail_alt: "편안함을 확인하며 머리띠를 조정하는 학생과 보호자"
 ---
 
 “신호가 자꾸 안 좋다고 뜨는데, 아이가 가만히 있지 못해서 그런가요?” EEG 또는 뉴로피드백을 시작할 때 전극 접촉, 움직임, 신호 품질과 관련한 안내가 보이면 학생의 협조성이나 집중력으로 바로 연결하기 쉽습니다. 짧은 결론은 이렇습니다. **신호 품질 알림은 그 기록이 어떤 기술적·절차적 조건에서 얻어졌는지 점검할 단서이지, 학생의 학습 태도·집중력·능력에 붙이는 점수가 아닙니다.** 한 번의 알림이나 화면 반응으로 ADHD·불안·집중력을 단독 진단할 수 없고, 뉴로피드백의 치료 효과나 학습 향상을 증명할 수도 없습니다.

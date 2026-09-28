@@ -1,4 +1,6 @@
 ---
+thumbnail_alt: "학습상담 장면: 학사경고 통지를 받은 첫 주: ‘규정·학습 장면·요청할 지원’부터 나누는 학습상담"
+thumbnail: "/assets/images/2026-09-26-academic-warning-first-week-map-thumbnail-v3.png"
 layout: post
 title: "학사경고 통지를 받은 첫 주: ‘규정·학습 장면·요청할 지원’부터 나누는 학습상담"
 date: 2026-09-26 07:30:00 +0900

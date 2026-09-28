@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 공부 시작을 매번 재촉받게 될 때: ‘시작 단서·선택·확인’으로 다시 정하는 학습상담"
 layout: post
 title: "공부 시작을 매번 재촉받게 될 때: ‘시작 단서·선택·확인’으로 다시 정하는 학습상담"
 date: 2026-09-11 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 과제착수, 학습습관, 자기조절, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-09-11-start-cue-ownership-thumbnail.png"
+thumbnail: "/assets/images/2026-09-11-start-cue-ownership-thumbnail-v3.png"
 description: "공부 시작을 재촉과 의지의 문제로만 보지 않고, 학생이 고른 시작 단서·첫 행동·확인 방식을 함께 정해 보는 교육적 학습상담의 작은 틀을 소개합니다."
 ---
 

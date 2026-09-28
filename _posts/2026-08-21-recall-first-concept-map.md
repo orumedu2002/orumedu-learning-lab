@@ -5,7 +5,8 @@ date: 2026-08-21 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [개념지도, 인출연습, 이해점검, 메타인지, 학습전략]
-thumbnail: "/assets/images/2026-08-21-recall-first-concept-map-thumbnail.png"
+thumbnail: "/assets/images/2026-08-21-recall-first-concept-map-thumbnail-v2.png"
+thumbnail_alt: "빈 종이에 기억나는 개념 연결을 그리는 학생"
 description: "개념지도를 보기 좋게 다시 그리기 전에 빈 종이에 관계를 먼저 꺼내 보고 원자료와 대조하면, 무엇을 알고 무엇을 다시 연결해야 하는지 점검할 수 있습니다."
 ---
 

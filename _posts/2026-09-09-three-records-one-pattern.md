@@ -5,7 +5,8 @@ date: 2026-09-09 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습점검, 학습기록, 학습계획, 메타인지]
-thumbnail: "/assets/images/kdrama-editorial-self-regulated-learning-v1.0.png"
+thumbnail: "/assets/images/2026-09-09-three-records-one-pattern-thumbnail-v2.png"
+thumbnail_alt: "세 번의 학습 기록에서 반복 장면을 찾는 학습자"
 permalink: /posts/three-records-one-pattern/
 description: "공부 기록을 세 번만 나란히 놓고 반복된 장면 하나를 고르면, 자신을 평가하는 대신 다음 학습에서 바꿔 볼 조건을 더 구체적으로 정할 수 있습니다."
 ---

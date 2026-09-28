@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 친구의 성적을 들은 뒤 계획을 버리고 싶을 때: 비교를 ‘다음 과제의 기준’으로 되돌리는 학습상담"
 layout: post
 title: "친구의 성적을 들은 뒤 계획을 버리고 싶을 때: 비교를 ‘다음 과제의 기준’으로 되돌리는 학습상담"
 date: 2026-08-20 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습정서, 사회적비교, CBT-informed, 학습코칭, 자기조절]
-thumbnail: "/assets/images/2026-08-20-comparison-to-next-task-thumbnail.png"
+thumbnail: "/assets/images/2026-08-20-comparison-to-next-task-thumbnail-v3.png"
 description: "친구의 성적이나 공부량을 들은 뒤 계획을 포기하거나 과도하게 늘리고 싶을 때, 비교 문장을 다음 과제의 기준과 한 가지 행동으로 다시 나누어 보는 교육적 학습상담을 제안합니다."
 ---
 

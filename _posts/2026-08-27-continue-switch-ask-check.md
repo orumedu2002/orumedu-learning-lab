@@ -5,7 +5,8 @@ date: 2026-08-27 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습점검, 학습전략, 메타인지, 도움요청]
-thumbnail: "/assets/images/2026-08-27-continue-switch-ask-check-thumbnail.png"
+thumbnail: "/assets/images/2026-08-27-continue-switch-ask-check-thumbnail-v3.png"
+thumbnail_alt: "계속·바꿈·질문 선택지를 점검하는 학습자"
 description: "한 전략이 막힐 때 더 오래 반복할지, 방법을 바꿀지, 도움을 요청할지를 과제의 흔적으로 구분해 보는 작은 자기조절 점검을 소개합니다."
 ---
 

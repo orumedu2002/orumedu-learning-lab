@@ -5,7 +5,8 @@ date: 2026-08-26 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습점검, 자기피드백, 메타인지, 학습계획]
-thumbnail: "/assets/images/2026-08-26-completion-understanding-evidence-thumbnail.png"
+thumbnail: "/assets/images/2026-08-26-completion-understanding-evidence-thumbnail-v2.png"
+thumbnail_alt: "완료 표시와 이해 확인을 따로 살피는 학습자"
 description: "과제를 끝냈다는 체크와 무엇을 이해했는지 보여 주는 짧은 흔적을 분리해 남기면, 다음 학습에서 바꿀 전략을 고르는 데 도움이 될 수 있습니다."
 ---
 

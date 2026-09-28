@@ -5,7 +5,8 @@ date: 2026-09-08 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [인출연습, 기억, 학습단서, 메타인지, 학습전략]
-thumbnail: "/assets/images/2026-09-08-cue-and-answer-pair-recall-thumbnail.png"
+thumbnail: "/assets/images/2026-09-08-cue-and-answer-pair-recall-thumbnail-v2.png"
+thumbnail_alt: "질문 단서를 바꾸어 과학 개념을 설명하는 학생"
 description: "한 답을 외운 뒤에는 그 답을 꺼낼 질문 단서도 함께 바꾸어 말해 보면, 익숙한 문장과 실제로 설명·적용할 수 있는 이해를 구분하는 데 도움이 될 수 있습니다."
 ---
 

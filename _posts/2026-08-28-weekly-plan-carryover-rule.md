@@ -5,7 +5,8 @@ date: 2026-08-28 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습계획, 학습점검, 우선순위, 학습지속성]
-thumbnail: "/assets/images/2026-08-28-weekly-plan-carryover-rule-thumbnail.png"
+thumbnail: "/assets/images/2026-08-28-weekly-plan-carryover-rule-thumbnail-v2.png"
+thumbnail_alt: "미완료 학습 항목을 나누어 고르는 학습자"
 description: "주간 계획에서 끝내지 못한 일을 모두 다음 주로 옮기기보다, 유지·다시 잡기·멈춤으로 나누어 다음 학습의 선택 부담을 줄여 볼 수 있습니다."
 ---
 

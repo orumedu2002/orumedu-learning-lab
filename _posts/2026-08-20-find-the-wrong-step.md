@@ -5,7 +5,8 @@ date: 2026-08-20 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [오류학습, 문제풀이, 피드백, 메타인지, 학습전략]
-thumbnail: "/assets/images/2026-08-20-find-the-wrong-step-thumbnail.png"
+thumbnail: "/assets/images/2026-08-20-find-the-wrong-step-thumbnail-v2.png"
+thumbnail_alt: "풀이에서 처음 달라진 지점을 함께 확인하는 학생과 교사"
 description: "오답을 통째로 다시 베끼는 대신 풀이에서 처음 어긋난 한 줄과 그 이유를 찾아 고치면, 다음 문제에서 확인할 조건을 더 구체적으로 정할 수 있습니다."
 ---
 

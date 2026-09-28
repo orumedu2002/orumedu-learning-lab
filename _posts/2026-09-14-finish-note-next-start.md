@@ -5,7 +5,8 @@ date: 2026-09-14 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습계획, 학습점검, 지속성, 미루기]
-thumbnail: "/assets/images/2026-09-14-finish-note-next-start-thumbnail.png"
+thumbnail: "/assets/images/2026-09-14-finish-note-next-start-thumbnail-v2.png"
+thumbnail_alt: "학습을 마치며 다음 시작 메모를 남기는 학습자"
 description: "학습을 마칠 때 끝낸 양뿐 아니라 다음에 다시 시작할 첫 행동을 한 줄 남기면, 중단 뒤에도 계획을 이어 갈 단서를 만들 수 있습니다."
 ---
 

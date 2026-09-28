@@ -5,7 +5,8 @@ date: 2026-08-29 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [그래프읽기, 표상전환, 자기설명, 과학학습, 학습전략]
-thumbnail: "/assets/images/2026-08-29-graph-to-sentence-check-thumbnail.png"
+thumbnail: "/assets/images/2026-08-29-graph-to-sentence-check-thumbnail-v2.png"
+thumbnail_alt: "선 그래프의 관계를 손으로 짚어 설명하는 학생"
 description: "그래프나 표를 본 직후 축·변화·조건을 한 문장으로 말해 보면, 모양을 알아보는 것과 자료가 말하는 관계를 설명하는 일을 구분해 점검하는 데 도움이 될 수 있습니다."
 ---
 

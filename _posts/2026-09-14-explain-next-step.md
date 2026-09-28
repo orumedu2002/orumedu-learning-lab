@@ -5,7 +5,8 @@ date: 2026-09-14 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [해결된예시, 자기설명, 문제해결, 이해점검, 학습전략]
-thumbnail: "/assets/images/2026-09-14-explain-next-step-thumbnail.png"
+thumbnail: "/assets/images/2026-09-14-explain-next-step-thumbnail-v2.png"
+thumbnail_alt: "예제의 다음 단계를 가리고 이유를 말하는 학생과 교사"
 permalink: /posts/explain-next-step/
 description: "해결된 예시를 베끼기 전에 다음 한 줄을 가리고 왜 그 단계가 필요한지 말해 보면, 풀이의 순서를 외우는 대신 조건과 이유를 확인하는 작은 연습이 될 수 있습니다."
 ---

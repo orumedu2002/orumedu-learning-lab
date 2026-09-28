@@ -5,7 +5,8 @@ date: 2026-08-27 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [과정이해, 시각화, 자기점검, 과학학습, 학습전략]
-thumbnail: "/assets/images/2026-08-27-three-box-process-sketch-thumbnail.png"
+thumbnail: "/assets/images/2026-08-27-three-box-process-sketch-thumbnail-v2.png"
+thumbnail_alt: "과정의 앞과 변화와 뒤를 카드로 배열하는 학생"
 description: "과정이 담긴 설명을 읽은 뒤 앞·변화·뒤를 세 칸에 간단히 놓고 말로 다시 연결해 보면, 문장에서 빠뜨린 순서와 조건을 찾는 데 도움이 될 수 있습니다."
 ---
 

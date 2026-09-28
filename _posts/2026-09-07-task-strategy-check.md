@@ -5,7 +5,8 @@ date: 2026-09-07 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습전략, 학습계획, 메타인지, 학습점검]
-thumbnail: "/assets/images/kdrama-editorial-self-regulated-learning-v1.0.png"
+thumbnail: "/assets/images/2026-09-07-task-strategy-check-thumbnail-v2.png"
+thumbnail_alt: "과제와 학습 방법을 맞춰 보는 학습자"
 permalink: /posts/task-strategy-check/
 description: "공부 방법을 더 많이 모으기보다, 시작 전 과제 하나에 맞는 방법과 확인 신호를 함께 정하면 수행 중 전략을 조절할 근거를 남길 수 있습니다."
 ---

@@ -5,8 +5,8 @@ date: 2026-08-17 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습패턴, 과제회피, 도움요청, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-08-17-last-stuck-task-conversation-thumbnail-v2.png"
-thumbnail_alt: "빈 카드와 노트를 보며 마지막으로 멈춘 과제를 함께 살피는 대학생과 학습상담자"
+thumbnail: "/assets/images/2026-08-17-last-stuck-task-conversation-thumbnail-v3.png"
+thumbnail_alt: "학습상담 장면: ‘이 과목은 포기했어요’라고 말할 때: 과목 이름 대신 마지막으로 멈춘 과제를 꺼내는 학습상담"
 description: "‘이 과목은 포기했다’는 넓은 결론을 마지막으로 멈춘 과제·막힌 위치·다음 질문으로 좁혀 보는 교육적 학습상담 대화 틀을 소개합니다."
 ---
 

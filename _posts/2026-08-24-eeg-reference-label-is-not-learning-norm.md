@@ -5,8 +5,9 @@ date: 2026-08-24 07:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [뇌파·뉴로피드백]
 tags: [EEG, 뇌파, 기준값, 결과표, 측정맥락, 뉴로피드백]
-thumbnail: "/assets/images/2026-08-24-eeg-reference-label-is-not-learning-norm-thumbnail.png"
+thumbnail: "/assets/images/2026-08-24-eeg-reference-label-is-not-learning-norm-thumbnail-v2.png"
 description: "EEG 결과표의 기준·범위·비교 표기는 기록을 이해하기 위한 정보일 뿐, 학생의 집중력·능력이나 학습의 정상·비정상을 판정하는 기준선이 아닙니다."
+thumbnail_alt: "결과 표기와 일상 학습 메모를 분리해 살피는 학생과 보호자"
 ---
 
 EEG 결과표에 ‘기준’, ‘범위’, ‘평균과의 비교’ 같은 표기가 있으면 “기준 안이면 공부도 괜찮은가요?”, “벗어나면 집중력에 문제가 있나요?”라는 질문이 따라옵니다. 짧은 결론은 이렇습니다. **결과표의 기준 표기는 특정 기록을 정리·비교하는 방식에 관한 정보이지, 학생의 집중력·능력·학습 가능성의 기준선은 아닙니다.** 표기 하나를 학생의 정상·비정상이나 ADHD·불안의 단독 진단으로 읽지 말고, 기록 조건과 실제 학습 장면을 따로 확인하는 편이 안전합니다.

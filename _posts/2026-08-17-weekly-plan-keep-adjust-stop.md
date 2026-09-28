@@ -5,8 +5,8 @@ date: 2026-08-17 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 주간계획, 학습점검, 계획조정, 지속성]
-thumbnail: "/assets/images/2026-08-17-weekly-plan-keep-adjust-stop-thumbnail-v2.png"
-thumbnail_alt: "주간 계획표 위에서 세 가지 색상 표시를 고르는 대학생"
+thumbnail: "/assets/images/2026-08-17-weekly-plan-keep-adjust-stop-thumbnail-v3.png"
+thumbnail_alt: "주간 계획표에서 유지·조정·중단 표시를 고르는 학습자"
 description: "주간 계획을 지킨 양만 채점하기보다, 실제로 도움이 된 전략은 유지하고 부담이 된 조건은 조정하거나 중단하는 짧은 점검이 다음 계획의 재료가 될 수 있습니다."
 ---
 

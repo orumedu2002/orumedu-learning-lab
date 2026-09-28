@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 상담과 상담 사이, 기록이 숙제가 될 때: ‘보인 행동·막힌 지점·필요한 도움’ 세 줄"
 layout: post
 title: "상담과 상담 사이, 기록이 숙제가 될 때: ‘보인 행동·막힌 지점·필요한 도움’ 세 줄"
 date: 2026-09-06 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습기록, 자기피드백, 도움요청, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-09-06-consulting-between-session-note-thumbnail.png"
+thumbnail: "/assets/images/2026-09-06-consulting-between-session-note-thumbnail-v3.png"
 description: "학습상담 사이의 기록을 ‘잘했는지 검사하는 숙제’가 아니라, 보인 행동·막힌 지점·필요한 도움을 다음 대화로 가져오는 세 줄의 자료로 남기는 방법을 소개합니다."
 ---
 

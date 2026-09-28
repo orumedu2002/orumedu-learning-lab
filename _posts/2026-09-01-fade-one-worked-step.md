@@ -5,7 +5,8 @@ date: 2026-09-01 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [해결예시, 단계감소, 문제해결, 피드백, 학습전략]
-thumbnail: "/assets/images/2026-09-01-fade-one-worked-step-thumbnail.png"
+thumbnail: "/assets/images/2026-09-01-fade-one-worked-step-thumbnail-v3.png"
+thumbnail_alt: "예시의 마지막 단계를 가리고 스스로 채우는 학생"
 description: "완성된 풀이 예시를 본 뒤 마지막 한 단계만 가리고 직접 채워 보면, 예시를 읽는 단계와 혼자 풀기 사이의 간격을 작게 조절하며 다음 연습에 필요한 도움의 양을 살필 수 있습니다."
 ---
 

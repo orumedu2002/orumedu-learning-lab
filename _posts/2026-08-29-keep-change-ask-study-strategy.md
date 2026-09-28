@@ -5,7 +5,8 @@ date: 2026-08-29 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습점검, 학습전략, 메타인지, 도움요청]
-thumbnail: "/assets/images/2026-08-29-keep-change-ask-study-strategy-thumbnail.png"
+thumbnail: "/assets/images/2026-08-29-keep-change-ask-study-strategy-thumbnail-v2.png"
+thumbnail_alt: "학습 뒤 유지·수정·도움요청 전략을 고르는 학습자"
 description: "공부를 마친 뒤 잘했는지 못했는지만 판단하기보다, 다음에도 유지할 방법·한 가지 수정할 조건·도움을 물을 지점을 나누어 적으면 다음 학습을 더 구체적으로 설계할 수 있습니다."
 ---
 

@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 계획표를 계속 고치느라 시작하지 못할 때: ‘필수·다음 15분·보류’로 나누는 학습상담"
 layout: post
 title: "계획표를 계속 고치느라 시작하지 못할 때: ‘필수·다음 15분·보류’로 나누는 학습상담"
 date: 2026-09-03 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습계획, 학습정서, 과제착수, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-09-03-plan-revise-start-thumbnail.png"
+thumbnail: "/assets/images/2026-09-03-plan-revise-start-thumbnail-v3.png"
 description: "계획표를 여러 번 고치다가 공부를 시작하지 못할 때, 필수 과제·다음 15분 행동·보류할 일을 분리해 보는 교육적 학습상담 기록을 소개합니다."
 ---
 

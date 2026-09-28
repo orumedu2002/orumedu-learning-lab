@@ -5,7 +5,8 @@ date: 2026-08-24 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [인출연습, 복습, 기억, 자기점검, 학습전략]
-thumbnail: "/assets/images/2026-08-24-successive-relearning-thumbnail.png"
+thumbnail: "/assets/images/2026-08-24-successive-relearning-thumbnail-v2.png"
+thumbnail_alt: "다음 날 회상 카드를 다시 확인하는 학생"
 description: "오늘 한 번 정확히 답한 내용을 다음 날 자료 없이 다시 꺼내 보고, 막힌 부분만 확인하면 ‘지금 맞힌 것’과 ‘나중에도 꺼낼 수 있는 것’을 구분하는 데 도움이 될 수 있습니다."
 ---
 

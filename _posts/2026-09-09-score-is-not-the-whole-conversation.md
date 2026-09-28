@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 시험 점수를 받은 날: ‘점수·풀이 흔적·다음 질문’으로 대화를 시작하는 학습상담"
 layout: post
 title: "시험 점수를 받은 날: ‘점수·풀이 흔적·다음 질문’으로 대화를 시작하는 학습상담"
 date: 2026-09-09 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 시험결과, 피드백, 학습정서, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-09-09-score-is-not-the-whole-conversation-thumbnail.png"
+thumbnail: "/assets/images/2026-09-09-score-is-not-the-whole-conversation-thumbnail-v3.png"
 description: "시험 점수를 능력의 결론으로 서두르지 않고, 풀이에서 보이는 정보와 다음에 확인할 질문을 분리해 보는 교육적 학습상담의 대화 틀을 소개합니다."
 ---
 

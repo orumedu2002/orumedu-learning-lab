@@ -5,7 +5,8 @@ date: 2026-08-23 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [인출연습, 힌트, 기억, 오답점검, 학습전략]
-thumbnail: "/assets/images/2026-08-23-one-hint-then-recall-thumbnail.png"
+thumbnail: "/assets/images/2026-08-23-one-hint-then-recall-thumbnail-v2.png"
+thumbnail_alt: "힌트 카드를 잠시 보고 다시 회상하는 학생"
 description: "답이 바로 떠오르지 않을 때 해설 전체를 읽기보다 핵심 단서 하나만 확인하고 다시 자료를 가려 답을 이어 보면, 도움이 필요한 지점과 스스로 꺼낼 수 있는 지점을 구분하는 데 도움이 될 수 있습니다."
 ---
 

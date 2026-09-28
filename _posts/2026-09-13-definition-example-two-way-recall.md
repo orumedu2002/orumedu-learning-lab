@@ -5,7 +5,8 @@ date: 2026-09-13 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [인출연습, 개념학습, 예시, 이해점검, 학습전략]
-thumbnail: "/assets/images/2026-09-13-definition-example-two-way-recall-thumbnail.png"
+thumbnail: "/assets/images/2026-09-13-definition-example-two-way-recall-thumbnail-v2.png"
+thumbnail_alt: "정의 카드와 실제 예시를 양방향으로 연결하는 학생"
 description: "개념의 정의를 보고 예를 떠올리고, 예를 보고 다시 정의와 조건을 말해 보는 짧은 왕복은 무엇을 실제로 설명할 수 있는지 점검하는 데 도움이 될 수 있습니다."
 ---
 

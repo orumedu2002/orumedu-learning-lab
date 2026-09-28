@@ -5,7 +5,8 @@ date: 2026-08-31 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [생성학습, 설명, 이해점검, 메타인지, 학습전략]
-thumbnail: "/assets/images/2026-08-31-change-the-listener-explanation-thumbnail.png"
+thumbnail: "/assets/images/2026-08-31-change-the-listener-explanation-thumbnail-v2.png"
+thumbnail_alt: "동생에게 개념을 설명하는 학생"
 description: "배운 내용을 자료 없이 서로 다른 듣는 이를 가정해 짧게 설명해 보면, 외운 문장과 이유를 연결해 말할 수 있는 부분을 구분하여 다음 복습을 고르는 데 도움이 될 수 있습니다."
 ---
 

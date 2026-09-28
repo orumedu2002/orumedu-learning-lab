@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 학습상담 기록을 보호자와 나눌 때: ‘공유할 사실·도움·범위’를 먼저 정하는 법"
 layout: post
 title: "학습상담 기록을 보호자와 나눌 때: ‘공유할 사실·도움·범위’를 먼저 정하는 법"
 date: 2026-08-24 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습기록, 보호자소통, 자율성지지, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-08-24-sharing-boundaries-learning-consulting-thumbnail.png"
+thumbnail: "/assets/images/2026-08-24-sharing-boundaries-learning-consulting-thumbnail-v3.png"
 description: "학습상담 기록을 보호자와 나눌 때, 모든 이야기를 한꺼번에 전달하기보다 공유할 사실·필요한 도움·공유 범위를 먼저 구분하는 교육적 대화 틀을 제안합니다."
 ---
 

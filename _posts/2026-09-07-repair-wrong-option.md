@@ -5,7 +5,8 @@ date: 2026-09-07 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [오답점검, 인출연습, 피드백, 개념이해, 학습전략]
-thumbnail: "/assets/images/kdrama-editorial-learning-science-v1.0.png"
+thumbnail: "/assets/images/2026-09-07-repair-wrong-option-thumbnail-v3.png"
+thumbnail_alt: "틀린 보기의 한 조건을 고쳐 보는 학생"
 description: "객관식에서 틀린 보기를 정답으로 바꾸기 위해 무엇을 고쳐야 하는지 한 낱말 또는 한 조건만 표시해 보면, 맞힌 개수와 별개로 개념의 경계를 점검하는 데 도움이 될 수 있습니다."
 ---
 

@@ -5,7 +5,8 @@ date: 2026-09-03 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습시작, 학습계획, 자기점검, 실행전략]
-thumbnail: "/assets/images/2026-09-03-study-start-readiness-check-thumbnail.png"
+thumbnail: "/assets/images/2026-09-03-study-start-readiness-check-thumbnail-v2.png"
+thumbnail_alt: "학습 시작 전 자료와 첫 행동을 준비하는 학습자"
 description: "책상에 앉은 뒤에도 시작이 늦어질 때, 준비에 필요한 일과 첫 학습 행동을 나누어 기록하면 다음 시작 조건을 조정하는 데 도움이 될 수 있습니다."
 ---
 

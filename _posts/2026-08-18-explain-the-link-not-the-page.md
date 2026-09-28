@@ -5,7 +5,8 @@ date: 2026-08-18 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [자기설명, 이해점검, 생성학습, 학습전략, 메타인지]
-thumbnail: "/assets/images/2026-08-18-explain-the-link-not-the-page-thumbnail.png"
+thumbnail: "/assets/images/2026-08-18-explain-the-link-not-the-page-thumbnail-v2.png"
+thumbnail_alt: "도서관에서 두 학습 카드를 놓고 개념의 연결을 설명하는 학생"
 description: "읽은 페이지를 다시 훑기 전에 핵심 두 요소가 왜 연결되는지 한 문장으로 설명해 보면, 익숙함과 실제 이해의 차이를 확인하고 다음 질문을 고르는 데 도움이 될 수 있습니다."
 ---
 

@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 유독 한 과목만 피하게 될 때: ‘장면·해석·요구’를 나누는 학습상담"
 layout: post
 title: "유독 한 과목만 피하게 될 때: ‘장면·해석·요구’를 나누는 학습상담"
 date: 2026-08-28 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습패턴, 과목회피, 학습정서, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-08-28-subject-avoidance-map-thumbnail.png"
+thumbnail: "/assets/images/2026-08-28-subject-avoidance-map-thumbnail-v3.png"
 description: "유독 한 과목을 미루게 될 때 능력이나 의지로 단정하기보다, 피하는 장면·그때의 해석·과제가 요구하는 것을 나누어 다음 지원을 고르는 교육적 기록을 소개합니다."
 ---
 

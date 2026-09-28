@@ -5,7 +5,8 @@ date: 2026-09-02 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 자기점검, 자기피드백, 학습전략, 학습지속성]
-thumbnail: "/assets/images/2026-09-02-self-check-before-solution-thumbnail.png"
+thumbnail: "/assets/images/2026-09-02-self-check-before-solution-thumbnail-v2.png"
+thumbnail_alt: "해설을 보기 전 자신의 풀이를 점검하는 학습자"
 description: "해설을 바로 보기 전 내 답의 근거·과정·모르는 지점을 한 줄씩 남기면, 정답 확인을 다음 학습 전략으로 연결하는 작은 자기점검이 될 수 있습니다."
 ---
 

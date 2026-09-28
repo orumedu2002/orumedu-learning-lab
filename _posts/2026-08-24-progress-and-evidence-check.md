@@ -5,7 +5,8 @@ date: 2026-08-24 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 학습점검, 학습계획, 메타인지, 학습지속성]
-thumbnail: "/assets/images/2026-08-24-progress-and-evidence-check-thumbnail.png"
+thumbnail: "/assets/images/2026-08-24-progress-and-evidence-check-thumbnail-v2.png"
+thumbnail_alt: "학습 진도와 이해 확인 자료를 비교하는 학습자"
 description: "공부한 쪽수나 시간과 이해를 같은 것으로 보지 않고, 범위·확인한 증거·다음 조정을 짧게 나누어 적으면 다음 학습의 계획을 더 구체적으로 고를 수 있습니다."
 ---
 

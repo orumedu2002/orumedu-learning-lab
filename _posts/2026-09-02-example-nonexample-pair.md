@@ -5,7 +5,8 @@ date: 2026-09-02 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [개념학습, 범주학습, 사례, 비사례, 자기설명, 학습전략]
-thumbnail: "/assets/images/2026-09-02-example-nonexample-pair-thumbnail.png"
+thumbnail: "/assets/images/2026-09-02-example-nonexample-pair-thumbnail-v2.png"
+thumbnail_alt: "두 사례의 개념 경계를 비교하는 학생과 교사"
 description: "개념의 정의를 읽은 뒤 내 사례 하나와 ‘닮았지만 아닌 사례’ 하나를 만들고, 각각의 이유를 정의의 말로 대조하면 적용에서 생기는 혼동을 작게 드러내는 데 도움이 될 수 있습니다."
 ---
 

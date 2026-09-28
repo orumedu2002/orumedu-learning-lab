@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 친구의 공부량을 본 뒤 내 계획이 무너질 때: ‘비교 정보·내 과제·다음 10분’으로 나누기"
 layout: post
 title: "친구의 공부량을 본 뒤 내 계획이 무너질 때: ‘비교 정보·내 과제·다음 10분’으로 나누기"
 date: 2026-09-04 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습정서, 사회비교, 학습계획, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-09-04-comparison-own-task-thumbnail.png"
+thumbnail: "/assets/images/2026-09-04-comparison-own-task-thumbnail-v3.png"
 description: "친구의 진도나 성적을 본 뒤 계획이 무너질 때, 비교에서 얻은 정보와 내 과제, 다음 10분의 행동을 분리해 보는 교육적 학습상담 기록을 소개합니다."
 ---
 

@@ -5,8 +5,8 @@ date: 2026-09-26 06:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [자기조절학습]
 tags: [자기조절학습, 스터디, 동료학습, 학습점검, 메타인지]
-thumbnail: "/assets/images/2026-09-26-study-group-one-check-question-thumbnail.png"
-thumbnail_alt: "오프화이트 노트 두 장과 파란 책갈피, 연필이 놓인 차분한 공동 학습 준비 장면"
+thumbnail: "/assets/images/2026-09-26-study-group-one-check-question-thumbnail-v2.png"
+thumbnail_alt: "스터디 시작 전 질문 카드를 놓는 두 학습자"
 permalink: /posts/study-group-one-check-question/
 description: "스터디를 시작하기 전에 각자 확인받고 싶은 내용 또는 막힌 지점을 한 가지씩 정하면, 함께 있는 시간을 단순한 출석이 아니라 다음 학습 행동을 고르는 점검으로 쓰기 쉬워질 수 있습니다."
 ---

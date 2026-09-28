@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 공부가 잘된 날에도 ‘의지가 생겼다’로 끝내지 않기: 잘된 장면의 조건·전략·다음 반복을 묻는 학습상담"
 layout: post
 title: "공부가 잘된 날에도 ‘의지가 생겼다’로 끝내지 않기: 잘된 장면의 조건·전략·다음 반복을 묻는 학습상담"
 date: 2026-08-19 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습패턴, 학습정서, 자기피드백, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-08-19-success-condition-review-thumbnail.png"
+thumbnail: "/assets/images/2026-08-19-success-condition-review-thumbnail-v3.png"
 description: "공부가 비교적 잘된 날을 의지나 재능의 증거로 단정하지 않고, 장면의 조건·쓴 전략·다음에 반복할 한 가지를 살피는 교육적 학습상담 점검을 제안합니다."
 ---
 

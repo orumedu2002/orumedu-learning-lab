@@ -5,7 +5,8 @@ date: 2026-08-26 06:00:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습과학]
 tags: [해결된예시, 자기설명, 문제해결, 이해점검, 학습전략]
-thumbnail: "/assets/images/2026-08-26-explain-one-worked-step-thumbnail.png"
+thumbnail: "/assets/images/2026-08-26-explain-one-worked-step-thumbnail-v2.png"
+thumbnail_alt: "예시 풀이의 한 단계를 교사와 설명하는 학생"
 description: "해결된 예시의 한 단계에서 ‘무엇을 했나’뿐 아니라 ‘문제의 어떤 정보 때문에 이 단계를 골랐나’를 짧게 설명해 보면, 풀이 순서를 베끼는 것과 다음 문제에서 선택할 단서를 구분하는 데 도움이 될 수 있습니다."
 ---
 

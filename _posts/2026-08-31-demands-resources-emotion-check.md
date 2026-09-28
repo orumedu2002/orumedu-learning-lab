@@ -1,11 +1,12 @@
 ---
+thumbnail_alt: "학습상담 장면: 공부가 버거운 날, ‘의지 부족’부터 말하지 않기: 요구·자원·정서·다음 조정으로 보는 학습상담"
 layout: post
 title: "공부가 버거운 날, ‘의지 부족’부터 말하지 않기: 요구·자원·정서·다음 조정으로 보는 학습상담"
 date: 2026-08-31 07:30:00 +0900
 author: "백주경 교육학 박사"
 categories: [학습상담]
 tags: [학습상담, 학습정서, 학업요구, 학습자원, CBT-informed, 학습코칭]
-thumbnail: "/assets/images/2026-08-28-subject-avoidance-map-thumbnail.png"
+thumbnail: "/assets/images/2026-08-31-demands-resources-emotion-check-thumbnail-v3.png"
 description: "공부가 유난히 버거운 날을 의지의 문제로 단정하기보다, 그날의 요구·사용할 수 있었던 자원·정서·다음 조정을 함께 살피는 교육적 학습상담 틀을 소개합니다."
 ---
 
