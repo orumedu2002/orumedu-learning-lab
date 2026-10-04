@@ -7,6 +7,7 @@ categories: [뇌파·뉴로피드백]
 tags: [EEG, 뇌파, 카페인, 측정조건, 수면, 학습상담, 뉴로피드백]
 thumbnail: "/assets/images/2026-10-05-eeg-caffeine-session-context-thumbnail.png"
 thumbnail_alt: "아침 햇살이 드는 학습 공간에서 무지 머그잔 옆에 앉아 측정 전 조건을 차분히 살피는 대학생"
+permalink: /posts/eeg-caffeine-session-context/
 description: "EEG 측정 전의 카페인 섭취는 평소 집중력의 증거가 아니라, 수면·섭취 시각·정서·학습행동·환경과 함께 남겨야 할 측정 조건입니다."
 ---
 
