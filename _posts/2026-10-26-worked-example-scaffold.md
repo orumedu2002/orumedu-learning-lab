@@ -76,6 +76,6 @@ description: "처음 배우는 복합 과제에서 완성된 풀이와 일부 �
 
 [^ies]: U.S. Department of Education, Institute of Education Sciences, What Works Clearinghouse. [*Organizing Instruction and Study to Improve Student Learning*](https://ies.ed.gov/ncee/wwc/practiceguide/1). 권고 2는 해결된 예시와 문제 해결 연습을 번갈아 배치하도록 제안합니다.
 
-[^riss]: 김현정·최지선. [「해결된 예제를 활용한 수학 협력학습 과정에서 나타난 중학생의 인지부하 분석」](https://m.riss.kr/search/detail/DetailView.do?control_no=5d9034be52b54125c85d2949c297615a&p_mat_type=1a0202e37d52c72d). 국내 중학교 1학년 258명의 협력학습에서 완성·부분 해결 예제와 전통적 문제에 따른 인지부하 인식을 분석한 연구입니다.
+[^riss]: RISS. [「해결된 예제를 활용한 수학 협력학습 과정에서 나타난 중학생의 인지부하 분석」](https://m.riss.kr/search/detail/DetailView.do?control_no=5d9034be52b54125c85d2949c297615a&p_mat_type=1a0202e37d52c72d). 국내 중학교 1학년 258명의 협력학습에서 완성·부분 해결 예제와 전통적 문제에 따른 인지부하 인식을 분석한 국내 학술지 논문입니다.
 
 *최종 검토일: 2026년 10월 26일*
